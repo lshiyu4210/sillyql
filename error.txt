@@ -1,0 +1,14 @@
+silly_debug: TableEntry.cpp:77: TableEntry::fast_pass<T> TableEntry::as() const [with T = bool; TableEntry::fast_pass<T> = bool]: Assertion `tag == EntryType::Bool && "tried to use TableEntry as a bool when it didn't contain a bool"' failed.
+::vector<TableEntry>; 
+    _Allocator = std::allocator<std::__debug::vector<TableEntry> >; 
+    std::__debug::vector<_Tp, _Allocator>::reference = 
+    std::__debug::vector<TableEntry>&; std::__debug::vector<_Tp, 
+    _Allocator>::size_type = long unsigned int]
+
+Error: attempt to subscript container with out-of-bounds index 0, but 
+container only holds 0 elements.
+
+Objects involved in the operation:
+    sequence "this" @ 0x0x6150000003e8 {
+      type = std::__debug::vector<std::__debug::vector<TableEntry, std::allocator<TableEntry> >, std::allocator<std::__debug::vector<TableEntry, std::allocator<TableEntry> > > >;
+    }

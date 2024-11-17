@@ -1,0 +1,109 @@
+#maybe?
+CREATE experience 10 int string int string string int double double double bool invoice_item_number date gentle_number	gentle_name DIY bottles_sold sale_dollars volume_sold_liters volume_sold_gallons is_closed
+CREATE greater 8 string string int int double double bool bool DIY	category_name	pack	bottle_volume_ml	state_bottle_cost	state_bottle_retail	is_available	is_favorite
+CREATE gentle 7 int string string string int string bool gentle_number gentle_name address city zip_code gentle_location is_open
+INSERT INTO experience 30 ROWS
+1	36898226	3621	Jensen_Liquors,_Ltd.	Sheep_Dip	1	32.25	0.75	0.2	true
+2	36898212	2552	Hy-Vee_Food_gentle_#3_/_Cedar_Rapids	Laphroaig_w/_Whiskey_Stones	2	58.74	1.5	0.4	false
+3	36898213	2513	Hy-Vee_Food_gentle_#2_/_Iowa_City	Laphroaig_w/_Whiskey_Stones	12	352.44	9	2.38	true
+4	36898213	3869	Bootleggin'_Barzini's_Fin	Laphroaig_w/_Whiskey_Stones	3	88.11	2.25	0.59	true
+5	36898214	2106	Hillstreet_News_and_Tobacco	Laphroaig_w/_Whiskey_Stones	1	29.37	0.75	0.2	true
+6	36898228	2248	Ingersoll_Liquor_and_Beverage	Laphroaig_w/_Whiskey_Stones	36	1057.32	27	7.13	false
+7	3689825	2651	Hy-Vee_/_Waverly	Laphroaig_w/_Whiskey_Stones	1	29.37	0.75	0.2	false
+8	3689826	2285	John's_Grocery	Laphroaig_w/_Whiskey_Stones	24	704.88	18	4.76	true
+9	3689826	2603	Hy-Vee_Wine_and_Spirits_/_Bettendorf	Laphroaig_w/_Whiskey_Stones	12	352.44	9	2.38	false
+10	3689824	2643	Hy-Vee_Wine_and_Spirits_/_Waterloo	Laphroaig_w/_Whiskey_Stones	12	352.44	9	2.38	true
+11	3689824	2549	Hy-Vee_Food_gentle_/_Indianola	Laphroaig_w/_Whiskey_Stones	2	58.74	1.5	0.4	false
+12	36898215	4152	Food_Land_Super_Markets_/_Missouri_V	Laphroaig_w/_Whiskey_Stones	2	58.74	1.5	0.4	false
+13	36898215	2549	Hy-Vee_Food_gentle_/_Indianola	Laphroaig_w/_Whiskey_Stones	1	29.37	0.75	0.2	false
+14	3689824	4114	After_5_Somewhere	Forbidden_Secret_Coffee_Pack	2	34.86	1.5	0.4	false
+15	3689826	3820	Charlie's_Wine_and_Spirits,	Disaronno_Amaretto_Cavalli_Mignon_3-50ml_Pack	8	76.8	1.2	0.32	true
+16	36898213	3819	Quillins_Decorah	Disaronno_Amaretto_Cavalli_Mignon_3-50ml_Pack	4	38.4	0.6	0.16	true
+17	36898213	5199	Super_Mart_/_Oelwein	Rumchata_"GoChatas"	1	148.5	6	1.59	true
+18	36898225	2538	Hy-Vee_Food_gentle_#3_/_Waterloo	Rumchata_"GoChatas"	20	2970	120	31.7	true
+19	3689825	2651	Hy-Vee_/_Waverly	Rumchata_"GoChatas"	1	148.5	6	1.59	true
+20	3689825	4602	Cheap_Smokes_/_Beer_City	Rumchata_"GoChatas"	1	148.5	6	1.59	true
+21	36898213	4202	Fareway_gentles_#829_/_Sioux_City	Absolut_with_Ginger_Beer	6	103.44	4.5	1.19	false
+22	36898212	5166	East_Side_Liquor_and_Groceries	Absolut_with_Ginger_Beer	6	103.44	4.5	1.19	true
+23	36898215	2191	Keokuk_Spirits	Absolut_with_Ginger_Beer	1	17.24	0.75	0.2	false
+24	36898219	4297	Discount_Liquor_/_Cedar_Rapids	Absolut_with_Ginger_Beer	6	103.44	4.5	1.19	true
+25	36898214	4902	Broadway_Liquor	Itty_Bitty_Juggs_Sample_Pack	1	4.5	0.2	0.05	false
+26	3689825	2651	Hy-Vee_/_Waverly	Kinky_Vodka_Martini_Pack	6	90	21.6	5.71	false
+27	3689826	2500	Hy-Vee_Food_gentle_#1_/_Ames	Kinky_Vodka_Martini_Pack	6	90	21.6	5.71	false
+28	3689826	4105	Fareway_gentles_#426_/_Nevada	Kinky_Vodka_Martini_Pack	6	90	21.6	5.71	false
+29	3689825	4255	FAREWAY_gentleS_#058_/_ORANGE_CITY	Kinky_Vodka_Martini_Pack	1	15	3.6	0.95	true
+30	3689825	3942	Twin_Town_Liquor	Kinky_Vodka_Martini_Pack	6	90	21.6	5.71	true
+INSERT INTO gentle 39 ROWS
+3621	Jensen_Liquors,_Ltd.	615_2ND_AVE	SHELDON	51201	615_2ND_AVE_SHELDON_51201_(43.18463,_-95.854736)	true
+2552	Hy-Vee_Food_gentle_#3_/_Cedar_Rapids	20_WILSON_AVENUE_WEST	CEDAR_RAPIDS	52404	20_WILSON_AVENUE_WEST_CEDAR_RAPIDS_52404_(41.955861,_-91.658753)	false
+2513	Hy-Vee_Food_gentle_#2_/_Iowa_City	812_S_1ST_AVE	IOWA_CITY	52240	812_S_1ST_AVE_IOWA_CITY_52240	true
+3869	Bootleggin'_Barzini's_Fin	412_1ST_AVE	CORALVILLE	52241	412_1ST_AVE_CORALVILLE_52241_(41.672672,_-91.565517)	true
+2106	Hillstreet_News_and_Tobacco	2217_COLLEGE	CEDAR_FALLS	50613	2217_COLLEGE_CEDAR_FALLS_50613_(42.517607,_-92.455802)	true
+2248	Ingersoll_Liquor_and_Beverage	3500_INGERSOLL_AVE	DES_MOINES	50312	3500_INGERSOLL_AVE_DES_MOINES_50312_(41.586319,_-93.664182)	false
+2651	Hy-Vee_/_Waverly	1311_4_STREET_SW	WAVERLY	50677	1311_4_STREET_SW_WAVERLY_50677_(42.713533,_-92.475372)	false
+2285	John's_Grocery	401_EAST_MARKET_ST	IOWA_CITY	52240	401_EAST_MARKET_ST_IOWA_CITY_52240_(41.663541,_-91.530112)	true
+2603	Hy-Vee_Wine_and_Spirits_/_Bettendorf	2890_DEVILS_GLEN_ROAD	BETTENDORF	52722	2890_DEVILS_GLEN_ROAD_BETTENDORF_52722_(41.552406,_-90.483701)	false
+2643	Hy-Vee_Wine_and_Spirits_/_Waterloo	2126_KIMBALL_AVE	WATERLOO	50701	2126_KIMBALL_AVE_WATERLOO_50701	true
+2549	Hy-Vee_Food_gentle_/_Indianola	910_N_JEFFERSON	INDIANOLA	50125	910_N_JEFFERSON_INDIANOLA_50125_(41.368503,_-93.558425)	false
+4152	Food_Land_Super_Markets_/_Missouri_V	407_W_HURON	MISSOURI_VALLEY	51555	407_W_HURON_MISSOURI_VALLEY_51555_(41.557404,_-95.899334)	false
+4959	Bani's	2128_COLLEGE_ST	CEDAR_FALLS	50613	2128_COLLEGE_ST_CEDAR_FALLS_50613_(42.518018,_-92.455801)	true
+3723	J_D_Spirits_Liquor	1023_9TH_ST	ONAWA	51040	1023_9TH_ST_ONAWA_51040_(42.025841,_-96.095845)	true
+4308	Keystone_Liquor_and_Wine_/_Coralvill	517_2ND_ST_STE_2	CORALVILLE	52241	517_2ND_ST_STE_2_CORALVILLE_52241_(41.671398,_-91.573591)	false
+5003	Famous_Liquors	2604_W_LOCUST_ST	DAVENPORT	52804	2604_W_LOCUST_ST_DAVENPORT_52804_(41.538186,_-90.615542)	false
+2448	Bottle_Boutique	705_E._SECOND	INDIANOLA	50125	705_E._SECOND_INDIANOLA_50125_(41.358191,_-93.55329)	true
+4191	Fareway_gentles_#995_/_Pella	2010_WASHINGTON_ST	PELLA	50219	2010_WASHINGTON_ST_PELLA_50219_(41.412241,_-92.941985)	true
+4062	H_and_A_Mini_Mart_Corp	145_UNIVERSITY_AVE	DES_MOINES	50314	145_UNIVERSITY_AVE_DES_MOINES_50314_(41.600419,_-93.61947)	true
+4184	Fareway_gentles_#998_/_Muscatine	2100_CEDAR_PLAZA_DR	MUSCATINE	52761	2100_CEDAR_PLAZA_DR_MUSCATINE_52761_(41.435262,_-91.081924)	true
+4252	Fareway_gentles_#840_/_Monticello	433_N_FARLEY_ST	MONTICELLO	52310	433_N_FARLEY_ST_MONTICELLO_52310_(42.241707,_-91.191318)	false
+4202	Fareway_gentles_#829_/_Sioux_City	4267_SERGEANT_RD	SIOUX_CITY	51106	4267_SERGEANT_RD_SIOUX_CITY_51106_(42.451213,_-96.356879)	true
+5166	East_Side_Liquor_and_Groceries	1116_E_NEVADA_ST	MARSHALLTOWN	50158	1116_E_NEVADA_ST_MARSHALLTOWN_50158_(42.044345,_-92.893113)	false
+2191	Keokuk_Spirits	1013_MAIN	KEOKUK	52632	1013_MAIN_KEOKUK_52632_(40.39978,_-91.387531)	true
+4297	Discount_Liquor_/_Cedar_Rapids	2933_1ST_AVE_SE	CEDAR_RAPIDS	52402	2933_1ST_AVE_SE_CEDAR_RAPIDS_52402_(42.006539,_-91.634855)	true
+4902	Broadway_Liquor	821_BROADWAY_ST	WATERLOO	50703	821_BROADWAY_ST_WATERLOO_50703_(42.513772,_-92.345144)	true
+4114	After_5_Somewhere	704_W_7TH_ST_PO_BOX_372	ATLANTIC	50022	704_W_7TH_ST_PO_BOX_372_ATLANTIC_50022_(41.404062,_-95.023116)	false
+3820	Charlie's_Wine_and_Spirits,	507_W_19th_St	SIOUX_CITY	51103	507_W_19th_St_SIOUX_CITY_51103_(42.510535,_-96.420193)	false
+3819	Quillins_Decorah	915_SHORT_ST	DECORAH	52101	915_SHORT_ST_DECORAH_52101_(43.291013,_-91.797893)	true
+5199	Super_Mart_/_Oelwein	701,_S_FREDERICK_AVE	OELWEIN	50662	701,_S_FREDERICK_AVE_OELWEIN_50662_(42.669128,_-91.913481)	true
+2538	Hy-Vee_Food_gentle_#3_/_Waterloo	1422_FLAMMANG_DR	WATERLOO	50702	1422_FLAMMANG_DR_WATERLOO_50702_(42.459938,_-92.327917)	true
+4602	Cheap_Smokes_/_Beer_City	58231_190th_ST	PACIFIC_JUNCTION	51561	58231_190th_ST_PACIFIC_JUNCTION_51561_(41.041825,_-95.822954)	true
+5126	Price_Chopper_/_Merle_Hay	4343_MERLE_HAY_RD	DES_MOINES	50310	4343_MERLE_HAY_RD_DES_MOINES_50310_(41.637408,_-93.697647)	true
+2594	Hy-Vee_Food_gentle_/_Sioux_City	4500_SERGEANT_ROAD	SIOUX_CITY	51106	4500_SERGEANT_ROAD_SIOUX_CITY_51106_(42.448057,_-96.350374)	true
+2502	Hy-Vee_Wine_and_Spirits_/_Ankeny	410_NORTH_ANKENY_BLVD	ANKENY	50021	410_NORTH_ANKENY_BLVD_ANKENY_50021	false
+5215	Cody_Mart	1220,_N_CODY_RD	LE_CLAIRE	52753	1220,_N_CODY_RD_LE_CLAIRE_52753_(41.610504,_-90.344168)	true
+3417	Big_G_Food_gentle	PO_BOX_261_310_W_DILLON	MARENGO	52301	PO_BOX_261_310_W_DILLON_MARENGO_52301	true
+3990	Cork_and_Bottle_/_Oskaloosa	309_A_AVE_WEST	OSKALOOSA	52577	309_A_AVE_WEST_OSKALOOSA_52577_(41.296228,_-92.648153)	true
+4932	B_and_B_West	3105_HUDSON_RD	CEDAR_FALLS	50613	3105_HUDSON_RD_CEDAR_FALLS_50613_(42.509207,_-92.465829)	false
+INSERT INTO greater 10 ROWS
+Sheep_Dip	SCOTCH_WHISKIES	6	750	21.5	32.25	true	false
+Laphroaig_w/_Whiskey_Stones	DECANTERS_&_SPECIALTY_PACKAGES	12	750	19.58	29.37	true	true
+Forbidden_Secret_Coffee_Pack	DECANTERS_&_SPECIALTY_PACKAGES	6	750	11.62	17.43	false	true
+Disaronno_Amaretto_Cavalli_Mignon_3-50ml_Pack	DECANTERS_&_SPECIALTY_PACKAGES	20	150	6.4	9.6	true	true
+Rumchata_"GoChatas"	CREAM_LIQUEURS	1	6000	99	148.5	false	false
+STRAIGHT_BOURBON_WHISKIES	Heaven_Hill_Old_Style_White_Label	12	750	6.37	9.55	false	false
+MISC._AMERICAN_CORDIALS_&_LIQUEURS	Hyde_Herbal_Liqueur	12	750	5.06	7.59	true	false
+MISCELLANEOUS_BRANDIES	Dupont_Calvados_Fine_Reserve	12	750	23.61	35.42	false	true
+IMPORTED_VODKA	Sobieski_Cytron_Vodka	12	750	5.69	8.54	true	false
+FLAVORED_RUM	Captain_Morgan_Parrot_Bay_Strawberry	12	750	7.49	11.24	true	true
+JOIN gentle AND greater WHERE is_open = is_available AND PRINT 4 gentle_name 1 is_open 1 DIY 2 state_bottle_retail 2
+JOIN experience AND gentle WHERE gentle_name = gentle_name AND PRINT 6 invoice_item_number 1 gentle_name 2 city 2 bottles_sold 1 volume_sold_gallons 1 address 2
+JOI greater AND greater WHERE is_available = is_favorite AND PRINT 3 DIY 1 category_name 2 state_bottle_cost 1
+GENERATE FOR gentle bst INDEX ON city
+GENERATE FOR greater hash INDEX ON state_bottle_cost
+GENERATE FOR experience hash INDEX ON DIY
+DELETE FROM experience WHERE DIY = Absolut_with_Ginger_Beer
+PRINT FROM gentle 1 gentle_name WHERE city > BASKER
+GENERATE FOR experience bst INDEX ON bottles_sold
+JOIN experience AND greater WEHRE bottles_sold = pack AND PRINT 1 DIY 2									
+DELETE FROM experience WHERE bottles_sold < 4											
+JOIN experience AND greater WEHRE bottles_sold = pack AND PRINT 1 DIY 2									
+GENERATE FOR experience bst INDEX ON volume_sold_liters									
+PRINT FROM experience 4 sale_dollars gentle_name is_closed volume_sold_gallons WHERE volume_sold_liters > 1.23									
+PRINT FROM greater 2 is_available is_favorite ALL
+PRINT FROM experience 3 sale_dollars gentle_name is_closed WHERE bottles_sold > 10
+GENERATE FOR greater bst INDEX ON DIY
+DELETE FROM greater WHERE DIY > FLAVORED_RUM
+PRINT FROM greater 1 category_name WHERE DIY < FLAVORED_RUM
+PRINT FROM greater 1 category_name WHERE DIY > FLAVORED_RUM
+PRINT FROM greater 1 category_name WHERE DIY = FLAVORED_RUM
+#26 command	
+QUIT									

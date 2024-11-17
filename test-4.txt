@@ -1,0 +1,46 @@
+
+# Good Morning!
+CREATE 281class 4 string string bool double emotion person Y/N midterm
+GENERATE FOR 281class bst INDEX ON Y/N
+INSERT INTO 281class 5 ROWS
+happy Darden true 137.528
+stressed students false 100
+busy office_hours true 24.6
+stressed students true 2
+stressed Paoletti true 15.1
+PRINT FROM 281class 2 person emotion WHERE Y/N > true
+GENERATE FOR 281class bst INDEX ON emotion
+GENERATE FOR 281class bst INDEX ON hi
+PRINT FROM 281class 3 Y/N person emotion WHERE emotion > busy
+PRINT FROM 281class 3 emotion Y/N person WHERE person < Paoletti
+CREATE 281class 4 string string bool double emotion person Y/N midterm
+PRINT FROM 281class 3 Y/N person emotion WHERE midterm > 15
+CREATE pets 4 string bool bool double Name likes_cats? likes_dogs? num
+INSERT INTO pets 2 ROWS
+Sith true true 137.528
+Paoletti true false 24.6
+JOIN pets AND 281class WHERE likes_cats? = Y/N AND PRINT 3 Name 1 likes_dogs? 1 midterm 2
+JOIN pets AND 281class WHERE num = midterm AND PRINT 4 Name 1 likes_dogs? 1 midterm 2 num 1
+GENERATE FOR pets bst INDEX ON num
+DELETE FROM pets WHERE likes_dogs? = true
+JOIN pets AND 281class WHERE num = midterm AND PRINT 4 Name 1 likes_dogs? 1 midterm 2 num 1
+GENERATE FOR pets hash INDEX ON num
+JOIN pets AND 281class WHERE num = midterm AND PRINT 4 Name 1 likes_dogs? 1 midterm 2 num 1
+INSERT INTO pets 2 ROWS
+Sith true true 137.528
+Paoletti true false 24.6
+JOIN pets AND 281class WHERE num = midterm AND PRINT 4 Name 1 likes_dogs? 1 num 1 midterm 2
+JOIN pets AND 281class WHERE num = glory AND PRINT 4 Name 1 likes_dogs? 1 midterm 2 num 1
+GENERATE FOR 281class hash INDEX ON midterm
+JOIN pets AND 281class WHERE num = midterm AND PRINT 4 Name 1 likes_dogs? 1 num 1 midterm 2
+INSERT INTO 281class 2 ROWS
+happy Darden true 137.528
+stressed students false 100
+JOIN pets AND 281class WHERE num = midterm AND PRINT 4 Name 1 likes_dogs? 1 num 1 midterm 2
+GENERATE FOR 281class hash INDEX ON midterm
+DELETE FROM 281class WHERE emotion = happy
+JOIN pets AND 281class WHERE num = midterm AND PRINT 4 Name 1 likes_dogs? 1 num 1 midterm 2
+PRINT FROM 281class 3 Y/N person emotion WHERE emotion < happy
+SHIT
+REMOVE pets
+QUIT

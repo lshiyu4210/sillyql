@@ -1,0 +1,1229 @@
+% % New table 281class with column(s) emotion person Y/N created
+% Added 8 rows to 281class from position 0 to 7
+% Deleted 2 rows from 281class
+% Created hash index for table 281class on column emotion
+% person emotion 
+office_hours busy 
+students stressed 
+Paoletti stressed 
+Sith happy 
+Sith victorious 
+Printed 5 matching rows from 281class
+% New table pets with column(s) Name likes_cats? likes_dogs? created
+% Added 2 rows to pets from position 0 to 1
+% tation cute freely knowledge demonstrate elementary external nuclear myth incredible mexican mate created
+% institution glory sorry midst 
+Printed 0 matching rows from sexy
+% dna want wheelchair etc suburban coal scientific fifteen secure fifteen dining pop instinct stir 
+Printed 0 matching rows from sexy
+% mexican nuclear become title knowledge coal ear describe mate till instinct become cream knowledge route etc proposal institution dining secure 
+Printed 0 matching rows from sexy
+% secure discovery heavy symbolic become etc everywhere gang station soil writing incredible coal become explicit glory mate writing woman rabbit pop 
+Printed 0 matching rows from sexy
+% Created bst index for table sexy on column everywhere
+% Added 34 rows to sexy from position 0 to 33
+% ghost symbolic distinctive writing become composition freely nuclear direction writing suburban describe elementary dna want 
+Printed 0 matching rows from sexy
+% freely direction woman elementary sixth title etc dining start glory station gang etc scientific institution vacuum woman suburban suburban staff scientific 
+128 156.329 95.4795 55 true 160.675 153.518 court 114 118.666 false 137 153.518 185.723 50.816 top 95.4795 13.4923 13.4923 172 185.723 
+177 174.6 32.4883 63 true 123.4 149.131 concrete 49 25.3966 true 192 149.131 180.89 98.9118 burst 32.4883 142.253 142.253 93 180.89 
+144 30.7258 37.1803 158 true 34.1153 106.054 guide 161 193.182 false 33 106.054 126.927 130.669 indicator 37.1803 1.96744 1.96744 66 126.927 
+117 116.868 9.84601 95 false 112.638 160.97 will 95 77.6396 false 19 160.97 175.09 64.8785 tightly 9.84601 95.7636 95.7636 13 175.09 
+117 40.5019 175.839 160 true 167.078 149.783 flag 186 31.0641 true 16 149.783 118.995 39.6897 exit 175.839 141.183 141.183 20 118.995 
+34 166.752 118.047 48 false 20.7956 85.5982 jazz 99 157.425 true 138 85.5982 23.9861 183.924 residential 118.047 151.209 151.209 148 23.9861 
+35 119.004 130.133 62 true 13.9891 12.6623 condemn 81 178.779 true 65 12.6623 16.4477 117.732 stranger 130.133 77.5963 77.5963 88 16.4477 
+74 102.004 169.852 143 true 175.351 148.617 stretch 65 14.5927 false 153 148.617 119.379 49.699 projection 169.852 102.002 102.002 178 119.379 
+117 1.74549 29.7851 11 false 139.42 164.746 placement 29 197.905 true 171 164.746 19.9662 118.066 previous 29.7851 16.0307 16.0307 12 19.9662 
+113 160.377 149.634 97 true 92.9556 198.599 apple 184 189.51 true 7 198.599 182.513 14.6598 poetry 149.634 140.232 140.232 64 182.513 
+18 105.334 194.11 86 true 42.7769 193.599 significant 102 125.558 true 4 193.599 160.867 112.806 politically 194.11 27.3747 27.3747 6 160.867 
+147 144.605 180.652 64 true 111.544 145.152 democracy 161 110.867 true 70 145.152 17.0384 58.5918 front 180.652 31.4684 31.4684 147 17.0384 
+177 58.3983 98.7879 181 true 76.2721 93.3196 heel 48 163.219 false 87 93.3196 113.16 197.609 fun 98.7879 110.416 110.416 171 113.16 
+87 106.219 88.6147 196 true 65.8052 187.466 boyfriend 83 178.515 true 108 187.466 119.367 5.53976 perhaps 88.6147 158.802 158.802 79 119.367 
+15 46.4206 170.805 131 true 179.982 126.537 illustrate 153 30.8028 false 44 126.537 128.167 44.3589 organize 170.805 64.7353 64.7353 21 128.167 
+133 53.2586 191.168 14 true 117.504 83.9092 optimistic 189 112.736 false 27 83.9092 81.7547 45.4662 country 191.168 33.4919 33.4919 24 81.7547 
+82 87.343 44.8815 35 false 120.5 112.517 lap 161 54.9515 true 16 112.517 177.175 72.7592 protocol 44.8815 93.4954 93.4954 171 177.175 
+184 84.0584 188.019 50 false 166.487 57.4027 cultural 198 107.185 false 42 57.4027 102.397 43.6083 born 188.019 27.4545 27.4545 186 102.397 
+48 153.632 59.3513 17 false 5.10817 134.907 dot 182 104.393 false 125 134.907 131.352 130.992 process 59.3513 173.047 173.047 135 131.352 
+193 140.978 151.608 91 false 156.965 187.516 college 177 119.559 true 91 187.516 27.3803 196.644 reporting 151.608 50.3235 50.3235 132 27.3803 
+97 160.666 75.5339 115 false 93.5518 126.812 attempt 182 109.937 true 129 126.812 182.949 174.79 pool 75.5339 181.015 181.015 71 182.949 
+49 133.528 152.944 181 true 17.4785 37.6191 impression 18 112.164 true 190 37.6191 177.872 158.46 individual 152.944 167.052 167.052 9 177.872 
+Printed 22 matching rows from sexy
+% mexican dining sixth institution woman expectation warmth 
+Printed 0 matching rows from sexy
+% Created bst index for table sexy on column glory
+% knowledge 
+Printed 0 matching rows from sexy
+% Added 37 rows to sexy from position 34 to 70
+% Deleted 0 rows from sexy
+% New table partnership with column(s) honest red blanket vary row fully rose personality sexual crop slightly dock appreciation deputy disability honestly solar fiction confirm chicken proud yesterday marry fraud created
+% Added 32 rows to partnership from position 0 to 31
+% instinct ear woman fifteen explicit sixth freely till suburban though elevator scientific route scientific knowledge demonstrate ghost glory 
+false 33.9717 169.852 74 combined true 74 false 102.002 7.03777 false 119.379 78.4828 119.379 96 true 189.357 14.5927 
+true 189.779 6.86053 185 jeans false 185 false 108.676 155.121 false 14.0568 47.2181 14.0568 46 false 9.80373 14.6039 
+true 128.791 137.528 99 habit false 138 true 140.853 32.7892 false 166.031 76.4961 166.031 45 true 117.266 15.9858 
+false 192.339 32.4883 27 invasion true 177 false 142.253 126.814 true 180.89 90.3968 180.89 197 true 101.131 25.3966 
+true 124.299 170.805 9 relief true 15 true 64.7353 87.5842 false 128.167 82.1518 128.167 173 true 86.2754 30.8028 
+true 5.26558 175.839 96 consult true 117 true 141.183 141.4 true 118.995 86.3472 118.995 146 false 44.5782 31.0641 
+true 2.31997 128.931 118 clock false 188 true 108.839 51.3227 false 33.2464 36.6877 33.2464 24 false 19.7116 33.6567 
+true 191.557 60.565 153 car true 128 true 159.893 45.0829 false 187.223 36.6317 187.223 191 true 151.63 36.5615 
+false 162.259 150.494 91 rapidly false 147 false 54.2153 150.369 false 170.461 161.657 170.461 147 true 130.342 40.7945 
+false 194.045 157.575 193 brilliant false 170 true 181.79 133.754 true 39.0015 81.9665 39.0015 103 true 185.569 41.8711 
+false 187.445 108.391 28 salary false 100 false 70.5276 152.621 false 38.8511 150.387 38.8511 13 true 111.903 43.9992 
+true 47.1116 8.46532 104 executive true 193 true 4.66998 104.763 false 146.857 56.9198 146.857 6 true 47.5006 50.9224 
+true 58.4986 44.8815 114 auction false 82 false 93.4954 97.2906 false 177.175 31.765 177.175 167 false 42.2343 54.9515 
+true 100.703 162.976 90 scared false 159 true 15.8552 79.9442 true 65.3968 148.271 65.3968 170 false 157.597 60.3255 
+false 68.2404 134.601 89 condition false 151 true 64.0419 85.0036 false 103.568 169.36 103.568 161 true 69.2259 61.3701 
+true 160.636 124.391 162 marriage false 137 false 64.5572 78.6348 true 62.8143 165.417 62.8143 4 false 174.49 64.047 
+false 28.1733 130.708 152 sanction false 87 true 162.255 51.0939 true 157.68 18.5997 157.68 86 false 178.056 71.4969 
+true 197.257 173.86 183 vehicle false 184 false 76.1804 23.0002 false 197.38 190.666 197.38 82 false 110.616 73.3569 
+true 189.797 55.3745 23 bell true 112 false 181.554 170.084 true 135.231 112.448 135.231 76 false 87.6009 75.2931 
+true 61.8669 56.6948 10 sometime true 89 true 5.93474 93.0778 true 21.6223 4.64883 21.6223 102 false 128.136 77.5593 
+false 177.416 9.84601 199 yes false 117 true 95.7636 186.935 false 175.09 102.103 175.09 199 false 31.5894 77.6396 
+false 181.462 118.043 17 belief false 55 false 192.986 81.0124 false 14.1554 61.8129 14.1554 105 true 53.6437 80.1341 
+false 34.0512 159.254 157 coordinator false 95 true 88.9862 194.5 false 123.506 195.853 123.506 168 true 160.569 81.5634 
+false 190.341 109.731 32 quality false 121 false 168.732 129.16 false 168.164 87.3737 168.164 18 false 27.7535 84.7983 
+false 193.995 194.479 8 fiction true 184 true 106.04 99.1926 false 125.351 106.972 125.351 41 false 97.3153 89.2846 
+false 37.4864 60.3199 33 depressed false 23 false 79.5417 139.077 false 169.218 71.5513 169.218 180 false 47.1535 89.8687 
+false 77.9331 75.4789 155 legislative false 22 true 129.814 72.3057 true 166.36 15.8017 166.36 92 false 14.4 95.7291 
+false 47.8862 193.015 30 bare false 73 false 70.9832 155.798 false 97.0837 190.205 97.0837 11 true 143.005 97.1114 
+true 149.922 140.759 9 scan true 51 false 199.818 14.3883 true 70.5672 101.151 70.5672 120 false 125.334 97.3867 
+false 190.425 187.366 133 fraud false 189 false 116.596 179.692 false 32.2007 134.478 32.2007 162 true 9.76945 98.2817 
+false 150.665 172.223 102 homeless false 114 true 75.5492 140.461 false 34.3315 163.945 34.3315 112 false 92.2347 99.9707 
+false 66.8794 163.541 186 characterize false 196 false 105.336 70.9356 false 139.567 184.629 139.567 161 true 84.7276 103.897 
+false 33.8799 59.3513 59 actually false 48 true 173.047 128.961 true 131.352 81.3858 131.352 48 true 192.861 104.393 
+false 118.198 130.627 106 refer true 54 true 20.4819 20.6408 true 97.8805 30.5704 97.8805 135 false 11.6994 105.536 
+false 177.355 40.4985 26 classic false 17 false 9.14027 154.675 false 36.215 164.972 36.215 89 false 170.367 105.783 
+true 192.054 188.019 105 setting false 184 true 27.4545 117.076 false 102.397 20.5151 102.397 25 false 60.4767 107.185 
+true 89.3722 75.5339 92 reliable false 97 true 181.015 13.1559 false 182.949 173.529 182.949 9 true 11.7207 109.937 
+true 121.499 180.652 112 combination true 147 false 31.4684 4.22903 true 17.0384 23.6601 17.0384 42 false 109.714 110.867 
+false 28.0761 152.944 107 pretend true 49 false 167.052 19.4 false 177.872 91.8433 177.872 130 false 8.90758 112.164 
+false 54.2169 191.168 186 casualty true 133 true 33.4919 75.3277 false 81.7547 53.0777 81.7547 138 true 196.171 112.736 
+false 149.509 149.423 10 personal false 196 true 28.6191 15.4036 true 94.5334 162.387 94.5334 153 false 123.658 116.03 
+false 140.338 103.913 179 cart true 162 false 136.361 199.382 true 93.313 109.953 93.313 13 true 151.738 116.992 
+true 27.5578 76.2101 73 special true 65 true 113.22 147.715 true 28.2888 123.423 28.2888 157 false 198.322 117.59 
+true 136.129 95.4795 120 corn true 128 true 13.4923 71.6703 true 185.723 133.743 185.723 106 false 65.4483 118.666 
+false 196.151 151.608 48 bulk false 193 true 50.3235 24.1147 true 27.3803 93.7301 27.3803 89 false 106.197 119.559 
+false 67.9129 171.072 184 essentially true 41 false 14.1068 114.144 true 110.596 126.289 110.596 154 false 84.3343 121.74 
+false 112.825 194.11 192 run true 18 false 27.3747 181.487 false 160.867 14.8007 160.867 178 false 40.0229 125.558 
+false 127.379 68.5034 180 announcement false 157 false 42.207 80.123 false 14.8738 131.331 14.8738 1 true 93.665 126.777 
+true 85.1753 182.176 113 diagnosis true 70 false 31.1951 100.132 true 110.645 151.06 110.645 55 false 66.7439 132.941 
+false 13.2515 87.3864 36 incentive false 198 false 95.0965 189.329 false 61.862 59.5506 61.862 122 false 16.6987 137.98 
+true 181.052 31.1548 92 late false 11 true 17.3144 142.159 true 171.854 183.772 171.854 82 false 47.9735 140.253 
+true 149.643 35.0013 90 maker false 126 true 56.553 30.1459 true 62.9459 21.96 62.9459 53 true 144.662 140.365 
+true 129.008 135.72 152 peel false 19 false 84.2958 84.6944 true 75.1954 123.771 75.1954 19 false 26.4197 145.778 
+false 161.76 16.6629 82 trading false 181 true 171.225 87.5762 false 74.9815 36.0248 74.9815 49 true 41.1664 145.845 
+false 78.6563 118.047 67 wave false 34 true 151.209 168.485 true 23.9861 108.978 23.9861 151 false 131.879 157.425 
+true 67.4984 22.0378 124 phone false 36 false 52.9623 63.1586 false 159.618 75.5077 159.618 109 true 34.3141 159.429 
+true 78.3402 98.7879 149 assess true 177 false 110.416 162.005 false 113.16 27.2318 113.16 114 true 43.7485 163.219 
+Printed 57 matching rows from sexy
+% New table sick with column(s) hers virtually nowhere soldier button recall mrs complaint works familiar distant jewish attach rush cart cow maintain even necessity translation variable neck bullet decline graduate fun doubt flip forum sack confirm percentage birth chop military muslim fishing nobody cross regulator swell without reception subtle after integrate fifteen holy imply board shy pace catch criticism bless gang tool successfully increase disease word if unique artist tribal federal plate mutter scan jaw stroke air suggest because formation organizational casualty sentiment spiritual nice rabbit steer aide hurt convert obvious nothing created
+% Added 36 rows to partnership from position 32 to 67
+% fraud yesterday rose slightly fiction crop confirm marry blanket 
+Printed 0 matching rows from partnership
+% direction companion cream title woman dance warmth 
+Printed 0 rows from joining sexy to sexy
+% glory elevator external station debt coal title expectation explicit station sixth everywhere knowledge vacuum describe become cute warmth 
+118.666 true true false 79.0744 true 160.675 senator corn false true false 106 top soon false false 109.881 
+15.9858 false false false 147.11 false 129.291 pleasure habit false false true 45 huge purse true true 72.8795 
+25.3966 true true true 78.0799 true 123.4 over invasion true true false 197 burst friendly false true 109.919 
+193.182 true true false 181.219 true 34.1153 need subsequent false true false 188 indicator rear true false 109.223 
+140.365 true true false 25.1891 true 62.6373 earthquake maker false false true 53 favor exhaust false false 42.1349 
+77.6396 false false false 144.856 true 112.638 resign yes false false false 199 tightly casino true false 111.913 
+31.0641 true true true 25.0492 false 167.078 weather consult true true false 146 exit basket true true 45.4831 
+157.425 true true true 194.637 false 20.7956 feeling wave true false false 151 residential display true false 17.8832 
+169.755 false false true 112.668 false 129.238 sink educational true true true 106 worried salt true true 43.6375 
+178.779 true true true 186.326 true 13.9891 fragment how true true false 171 stranger mother false false 17.5483 
+14.6039 false true false 123.722 true 177.029 technique jeans false false true 46 guilty perceive true false 86.9051 
+14.5927 false false false 76.3901 true 175.351 please combined false true false 96 projection hey true false 13.1783 
+189.334 true false true 40.8563 true 42.4607 endorse rice true true true 62 managing guy false true 80.2081 
+117.59 true true false 44.1791 false 76.0389 typical special false true true 157 ticket ugly false false 154.288 
+184.433 false true true 162.691 true 75.2717 grandfather unit true true true 1 preliminary narrow true false 107.259 
+184.834 false false true 182.262 true 140.611 regain alien true true true 200 olympics component true false 169.749 
+197.905 true false true 93.2706 true 139.42 than open true false false 36 previous dump true true 51.9377 
+189.51 true true true 40.5036 true 92.9556 bath tablespoon true true false 158 poetry crazy false true 193.746 
+125.558 false false true 7.38587 true 42.7769 slightly run true true false 178 politically someone false true 79.6036 
+110.867 true false true 79.6172 false 111.544 union combination true true false 42 front nowhere false true 62.2061 
+84.7983 false true false 9.18277 true 76.8278 necessity quality false false true 18 drunk proceed true true 113.173 
+163.219 false true false 109.765 true 76.2721 ban assess false true false 114 fun alter false false 17.6862 
+178.515 false false true 71.4308 true 65.8052 payment someday true true false 119 perhaps deputy true false 164.81 
+30.8028 false true false 139.448 false 179.982 angry relief false true false 173 organize wound true false 9.34982 
+112.736 false true false 174.333 true 117.504 generally casualty false true false 138 country cottage true false 129.03 
+54.9515 false true true 131.783 true 120.5 testimony auction true false false 167 protocol deal false true 163.841 
+107.185 false true false 20.2418 false 166.487 fact setting false false false 25 born coverage false true 68.8044 
+104.393 true false false 119.371 true 5.10817 punish actually false false false 48 process employ true true 178.1 
+187.77 true true false 107.895 false 73.7288 bloody responsible false false true 87 brick illusion true true 169.376 
+119.559 true false true 185.891 false 156.965 am bulk true false false 89 reporting throw true true 22.6972 
+77.5593 true true true 188.728 true 125.066 grocery sometime true true true 102 brave balance false false 79.8078 
+145.778 true false false 106.206 false 127.206 successful peel false false true 19 surprising tonight false true 52.828 
+109.937 false true true 98.3551 true 93.5518 school reliable true false false 9 pool argue false true 81.888 
+112.164 false true true 181.412 true 17.4785 outsider pretend true true false 130 individual sprinkle false true 185.708 
+71.4969 true false false 95.7832 true 77.2776 transition sanction false false false 86 cable selection false true 127.99 
+75.2931 true true false 108.562 true 119.083 occasion bell false true false 76 smart association true true 97.2239 
+36.5615 false false true 153.254 false 26.0335 criteria car true true true 191 consistently proposal false true 184.153 
+103.897 false true false 185.006 false 138.511 some characterize false false false 161 editor ambition false false 190.221 
+194.206 true false false 36.518 false 73.0171 appeal damn false true false 112 besides complexity false false 16.2689 
+64.047 true false false 85.1872 true 86.5824 successfully marriage false false true 4 frequency interesting true false 83.0423 
+33.6567 false false true 80.2658 true 72.3626 tumor clock true false true 24 book hug false true 102.735 
+137.98 false false true 179.001 false 134.833 blank incentive true false false 122 mansion photographer false false 142.398 
+95.7291 true false false 147.783 true 119.785 disorder legislative false false false 92 maker ceremony false false 23.6702 
+145.845 false false false 183.052 true 130.644 failure trading false false true 49 valid ban false true 177.38 
+50.9224 false false true 153.524 true 144.519 efficient executive true true true 6 patch frankly true true 150.685 
+99.9707 false false true 62.1119 false 168.531 evolution homeless true false false 112 articulate neighborhood false false 107.697 
+89.2846 false false true 171.366 true 148.027 clinical fiction true true false 41 evening cousin true false 91.3128 
+140.253 true true false 192.674 true 117.74 cabin late false false false 82 agree essence true true 18.1436 
+105.783 false true false 36.5561 false 177.804 athletic classic false false true 89 basis consent true false 186.099 
+105.536 true true true 18.7095 true 163.105 range refer true true true 135 aside regardless false true 28.0395 
+132.941 true true false 139.712 false 57.6909 program diagnosis false true true 55 reach danger true true 89.4178 
+89.8687 false false true 29.6033 false 28.7495 score depressed true false false 180 conversion ice false true 123.518 
+126.777 false false false 74.3284 false 153.502 aware announcement false false false 1 technical meat false false 198.871 
+81.5634 false false true 176.664 false 18.7158 bite coordinator true false false 168 light trim false false 54.1726 
+40.7945 false true false 17.4083 true 99.3994 promotion rapidly false false false 147 throughout sand true false 67.6749 
+116.992 true true false 34.6751 true 82.9569 considerably cart false true true 13 tent publicity true true 147.934 
+189.469 false false false 75.4245 true 167.487 gaze leading false true false 141 interpret below true true 108.204 
+184.407 false true false 107.511 true 9.73725 brake theme false true false 49 socially wolf true false 124.485 
+98.2817 false false true 182.47 false 105.603 proper fraud true false true 162 diplomat therefore true true 130.865 
+97.3867 true false true 193.165 true 113.544 occupy scan true true true 120 monkey rich true true 6.91791 
+41.8711 true true true 161.92 true 67.7465 concentration brilliant true false true 103 glory appropriate true true 187.566 
+73.3569 false true true 159.961 true 57.8861 solve vehicle true false true 82 willingness italian true true 93.9197 
+97.1114 false false true 78.0286 false 19.2869 await bare true false false 11 crush sleeve true true 125.475 
+188.518 true false false 161.768 false 137.377 talent trade false true true 76 aside officer false false 115.219 
+121.74 true true true 183.288 true 182.007 possible essentially true true true 154 committee belt true true 127.195 
+60.3255 true true true 45.1853 true 61.8675 shortly scared true false false 170 seller indigenous true false 158.507 
+61.3701 false true false 12.0055 false 144.195 deal condition false false false 161 investigation look true false 84.4952 
+116.03 true true true 44.0755 false 100.602 reply personal true false false 153 shelf volunteer false true 128.771 
+159.429 false false false 93.6052 true 77.9855 homeland phone false false false 109 trash tea false true 104.604 
+43.9992 false false false 192.559 false 172.587 merely salary false false true 13 ankle confirm true true 23.1961 
+80.1341 false false true 120.29 false 172.955 transportation belief true false true 105 trace shame true true 142.119 
+Printed 71 matching rows from sexy
+% expectation dining elevator scientific direction mexican expectation become nuclear hunt till everywhere sixth scientific ear route secure midst furthermore writing fifteen scientific warmth 
+senator court true 185.723 156.329 148 senator false false 165 true false true 185.723 136.129 133.743 74.7606 80 modern scientist 120 185.723 109.881 
+pleasure twenty false 166.031 197.27 107 pleasure true true 93 true true false 166.031 128.791 76.4961 198.72 62 complain kneel 99 166.031 72.8795 
+over concrete true 180.89 174.6 65 over false true 138 false false true 180.89 192.339 90.3968 178.342 78 investment coordinator 27 180.89 109.919 
+need guide true 126.927 30.7258 92 need true false 7 true false true 126.927 84.1949 34.928 115.474 59 poor inherit 59 126.927 109.223 
+earthquake advise true 62.9459 143.382 100 earthquake false true 122 true true false 62.9459 149.643 21.96 131.951 75 sandwich vast 90 62.9459 42.1349 
+resign will false 175.09 116.868 172 resign true false 101 true false false 175.09 177.416 102.103 198.027 115 law monitor 199 175.09 111.913 
+weather flag true 118.995 40.5019 100 weather true true 12 true false true 118.995 5.26558 86.3472 66.5957 198 late prison 96 118.995 45.4831 
+feeling jazz true 23.9861 166.752 92 feeling true true 145 true false false 23.9861 78.6563 108.978 165.858 132 every out 67 23.9861 17.8832 
+sink constitute false 74.1863 105.745 157 sink true false 81 false true true 74.1863 155.936 169.258 187.095 45 grandparent extent 44 74.1863 43.6375 
+fragment condemn true 16.4477 119.004 64 fragment false true 22 false false true 16.4477 71.7968 96.5203 28.7727 114 legal fatal 75 16.4477 17.5483 
+technique practitioner false 14.0568 187.034 32 technique true false 98 false true false 14.0568 189.779 47.2181 153.514 87 audience meet 185 14.0568 86.9051 
+please stretch false 119.379 102.004 183 please true false 3 false false true 119.379 33.9717 78.4828 76.759 64 safety agriculture 74 119.379 13.1783 
+endorse often true 107.848 113.391 200 endorse false true 158 true true true 107.848 143.162 10.399 137.594 14 lovely passing 101 107.848 80.2081 
+typical amount true 28.2888 97.851 198 typical false false 33 true true true 28.2888 27.5578 123.423 55.559 62 painful bubble 73 28.2888 154.288 
+grandfather detective false 152.368 166.997 53 grandfather true true 97 false true true 152.368 31.3889 28.4157 69.1862 176 selected soar 161 152.368 107.259 
+regain romance false 66.7237 187.175 151 regain true false 159 true true true 66.7237 176.696 98.7827 103.315 90 romantic power 13 66.7237 169.749 
+than placement true 19.9662 1.74549 11 than true true 189 true false false 19.9662 107.3 4.66436 167.12 63 intention gesture 27 19.9662 51.9377 
+bath apple true 182.513 160.377 190 bath false false 66 true false true 182.513 187.06 73.5704 112.732 117 kick per 31 182.513 193.746 
+slightly significant false 160.867 105.334 78 slightly false false 105 false false true 160.867 112.825 14.8007 148.268 96 feel talent 192 160.867 79.6036 
+union democracy true 17.0384 144.605 187 union false false 166 false false true 17.0384 121.499 23.6601 152.028 3 disappointment cover 112 17.0384 62.2061 
+necessity statue false 168.164 108.739 23 necessity true false 109 false true false 168.164 190.341 87.3737 28.5394 172 exciting ethnic 32 168.164 113.173 
+ban heel false 113.16 58.3983 158 ban false true 45 false false true 113.16 78.3402 27.2318 73.5287 161 christianity suck 149 113.16 17.6862 
+payment boyfriend false 119.367 106.219 136 payment true false 53 true false true 119.367 39.215 91.8828 45.578 38 twist risk 25 119.367 164.81 
+angry illustrate false 128.167 46.4206 161 angry true true 88 true false true 128.167 124.299 82.1518 124.504 170 greek range 9 128.167 9.34982 
+generally optimistic false 81.7547 53.2586 46 generally true true 159 true false true 81.7547 54.2169 53.0777 50.8005 200 salad firmly 186 81.7547 129.03 
+testimony lap false 177.175 87.343 100 testimony false false 157 false false false 177.175 58.4986 31.765 149.311 83 interrupt vary 114 177.175 163.841 
+fact cultural false 102.397 84.0584 120 fact false true 132 true false false 102.397 192.054 20.5151 198.807 27 rubber official 105 102.397 68.8044 
+punish dot true 131.352 153.632 167 punish true true 196 true false false 131.352 33.8799 81.3858 146.495 69 sign squeeze 59 131.352 178.1 
+bloody unfair true 176.683 141.09 131 bloody true false 51 true true false 176.683 147.234 13.8553 3.10238 100 catalog neighborhood 142 176.683 169.376 
+am college true 27.3803 140.978 189 am true true 59 true false false 27.3803 196.151 93.7301 24.1405 13 word celebrity 48 27.3803 22.6972 
+grocery seemingly true 21.6223 24.6742 90 grocery false false 157 true true true 21.6223 61.8669 4.64883 151.763 1 stuff margin 10 21.6223 79.8078 
+successful panel true 75.1954 192.354 136 successful false false 3 false true false 75.1954 129.008 123.771 79.1337 128 then seventh 152 75.1954 52.828 
+school attempt false 182.949 160.666 129 school false false 61 true false false 182.949 89.3722 173.529 16.5534 123 palace historically 92 182.949 81.888 
+outsider impression false 177.872 133.528 46 outsider false true 70 false false true 177.872 28.0761 91.8433 93.4574 41 gang depth 107 177.872 185.708 
+transition disappointment true 157.68 109.694 29 transition false true 126 true false false 157.68 28.1733 18.5997 51.7088 164 premium hesitate 152 157.68 127.99 
+occasion slope true 135.231 40.549 102 occasion true true 102 false false true 135.231 189.797 112.448 47.5267 15 young appearance 23 135.231 97.2239 
+criteria angry false 187.223 105.629 149 criteria false true 191 true true true 187.223 191.557 36.6317 24.4867 42 total stack 153 187.223 184.153 
+some temporary false 139.567 173 8 some false true 130 false false false 139.567 66.8794 184.629 131.269 61 doctrine profound 186 139.567 190.221 
+appeal instructor true 94.4055 20.4619 158 appeal false false 156 true false true 94.4055 23.2536 65.5079 108.23 72 smile ship 198 94.4055 16.2689 
+successfully expectation true 62.8143 94.2678 77 successfully true false 18 false true false 62.8143 160.636 165.417 10.84 23 supportive soul 162 62.8143 83.0423 
+tumor psychologist false 33.2464 187.547 122 tumor false true 110 true true false 33.2464 2.31997 36.6877 167.535 38 mystery employer 118 33.2464 102.735 
+blank re false 61.862 122.368 169 blank false false 65 false false false 61.862 13.2515 59.5506 141.437 107 banana emphasize 36 61.862 142.398 
+disorder preliminary true 166.36 20.1139 33 disorder false false 19 true false false 166.36 77.9331 15.8017 111.414 171 ought weakness 155 166.36 23.6702 
+failure identify false 74.9815 136.494 68 failure false true 27 true true false 74.9815 161.76 36.0248 139.574 159 rough unable 82 74.9815 177.38 
+efficient bow false 146.857 105.549 162 efficient true true 134 true true true 146.857 47.1116 56.9198 109.288 94 milk stack 104 146.857 150.685 
+evolution broken false 34.3315 143.82 190 evolution false false 43 true false false 34.3315 150.665 163.945 3.30411 87 differently lawmaker 102 34.3315 107.697 
+clinical accident false 125.351 105.754 18 clinical true true 147 true false true 125.351 193.995 106.972 149.635 13 clue trait 8 125.351 91.3128 
+cabin come true 171.854 159.544 96 cabin true true 61 true false false 171.854 181.052 183.772 8.10417 4 wear assessment 92 171.854 18.1436 
+athletic motive false 36.215 156.27 142 athletic true false 197 false true false 36.215 177.355 164.972 67.8315 79 addition involved 26 36.215 186.099 
+range permanent true 97.8805 12.4231 87 range false false 65 true true true 97.8805 118.198 30.5704 33.2814 19 biography crop 106 97.8805 28.0395 
+program legislature true 110.645 157.509 181 program true false 104 false true true 110.645 85.1753 151.06 96.9613 147 bow alarm 113 110.645 89.4178 
+score when false 169.218 92.116 80 score false true 158 false false false 169.218 37.4864 71.5513 68.0915 102 simply dead 33 169.218 123.518 
+aware particularly false 14.8738 113.499 194 aware false true 115 false false false 14.8738 127.379 131.331 168.581 122 level guilt 180 14.8738 198.871 
+bite banker false 123.506 77.2605 15 bite false true 102 true false false 123.506 34.0512 195.853 171.772 55 dry stem 157 123.506 54.1726 
+promotion charity false 170.461 40.5777 97 promotion true true 196 false false false 170.461 162.259 161.657 167.801 159 whose reinforce 91 170.461 67.6749 
+considerably inmate true 93.313 132.114 199 considerably true true 7 false true true 93.313 140.338 109.953 108.246 112 obligation burning 179 93.313 147.934 
+gaze accounting false 196.802 47.4013 164 gaze true true 127 false false true 196.802 35.605 8.34285 160.631 74 pretty headache 158 196.802 108.204 
+brake asleep false 118.146 199.9 2 brake true false 56 false false true 118.146 194.876 147.199 93.4262 20 deploy violent 194 118.146 124.485 
+proper valid false 32.2007 78.4751 74 proper true true 51 false true false 32.2007 190.425 134.478 132.64 144 catalog bucket 133 32.2007 130.865 
+occupy writer true 70.5672 145.949 131 occupy true true 135 false true true 70.5672 149.922 101.151 69.3221 60 leave operation 9 70.5672 6.91791 
+concentration wedding true 39.0015 194.348 97 concentration true true 84 true true false 39.0015 194.045 81.9665 144.408 89 trunk shut 193 39.0015 187.566 
+solve former false 197.38 101.349 56 solve true true 26 false true false 197.38 197.257 190.666 78.7411 75 affair ancient 183 197.38 93.9197 
+await tribal false 97.0837 126.051 200 await true true 114 false false false 97.0837 47.8862 190.205 76.4557 29 practical ah 30 97.0837 125.475 
+talent juror true 155.19 147.48 72 talent false true 127 true true true 155.19 191.337 116.251 18.1242 183 fundamental appropriate 185 155.19 115.219 
+possible middle true 110.596 9.0959 86 possible true false 54 false true true 110.596 67.9129 126.289 179.891 77 prevail helicopter 184 110.596 127.195 
+shortly accident true 65.3968 95.1862 124 shortly true false 115 true false false 65.3968 100.703 148.271 150.791 75 education scientist 90 65.3968 158.507 
+deal greek false 103.568 73.1389 96 deal true false 100 true false false 103.568 68.2404 169.36 29.4922 192 increased reporting 89 103.568 84.4952 
+reply ball true 94.5334 12.5598 118 reply false true 108 true false false 94.5334 149.509 162.387 197.839 36 ideology moment 10 94.5334 128.771 
+homeland repair false 159.618 193.971 6 homeland false false 109 false false false 159.618 67.4984 75.5077 178.024 101 chapter custody 124 159.618 104.604 
+merely extended false 38.8511 59.6183 128 merely true false 60 false true false 38.8511 187.445 150.387 155.166 177 significance outline 28 38.8511 23.1961 
+transportation treasure false 14.1554 176.394 46 transportation true false 195 false true false 14.1554 181.462 61.8129 27.3218 82 action marker 17 14.1554 142.119 
+Printed 71 matching rows from sexy
+% Added 35 rows to partnership from position 68 to 102
+% confirm marry row blanket personality dock 
+179 180 mild true 128 31 
+86 189 variety true 115 149 
+81 76 thigh true 122 182 
+109 34 concern true 183 51 
+2 160 lately true 106 40 
+3 200 blink false 16 183 
+75 50 retire false 96 141 
+70 20 popular false 146 20 
+74 110 source true 144 32 
+20 14 distract false 89 161 
+41 53 victory false 91 108 
+151 138 serious false 153 48 
+132 10 procedure true 81 86 
+166 112 elite false 164 182 
+94 56 tremendous false 110 106 
+191 93 significantly false 11 39 
+145 32 drama true 193 47 
+196 185 selection true 111 142 
+70 50 culture false 99 125 
+37 198 constitutional true 60 76 
+151 90 complex false 191 187 
+19 164 remaining false 178 158 
+88 134 hike true 195 144 
+28 82 rating true 143 97 
+110 59 pitcher false 34 88 
+130 9 quarterback true 142 73 
+96 99 refuge true 30 38 
+101 154 variety true 88 37 
+184 45 him true 76 102 
+98 121 manage true 176 86 
+114 66 straw true 158 63 
+124 93 govern false 152 17 
+87 128 ritual false 40 54 
+153 101 rain true 77 75 
+96 89 carry false 24 132 
+175 125 migration false 55 47 
+152 35 missile true 127 113 
+189 104 flow false 168 29 
+158 86 fix false 34 159 
+117 50 but false 101 74 
+194 126 main false 50 83 
+127 6 largely true 168 117 
+20 183 worth true 157 90 
+156 53 mean false 200 183 
+133 3 clip false 106 35 
+76 160 public false 176 189 
+163 187 submit false 98 70 
+106 72 deliberately true 158 31 
+37 6 ally false 114 179 
+112 58 vulnerable true 35 170 
+65 40 threaten false 15 130 
+97 41 encourage false 122 37 
+29 147 trail true 3 52 
+145 14 next true 66 161 
+89 56 opening false 22 148 
+31 27 wander false 63 196 
+179 57 bowl false 152 155 
+29 108 cuban false 168 62 
+187 60 wall false 92 5 
+2 17 long true 23 191 
+137 164 basic false 160 186 
+114 194 reaction true 66 195 
+118 68 super false 65 5 
+77 66 norm true 100 34 
+37 75 pretty true 14 86 
+176 10 network true 115 178 
+55 89 placement true 17 173 
+162 192 investigation true 167 10 
+181 90 partial true 50 54 
+76 120 react false 18 141 
+200 149 might false 72 181 
+141 71 transfer true 80 28 
+70 3 chart false 78 40 
+41 180 academic true 94 113 
+100 53 happen true 192 20 
+138 17 strongly false 98 193 
+109 138 contest false 195 143 
+183 34 orientation false 30 139 
+86 183 condition true 64 189 
+145 17 powerful true 184 192 
+16 143 control false 32 59 
+111 35 shed true 104 2 
+182 179 beneath true 134 37 
+114 76 order true 47 145 
+10 19 capture false 47 98 
+123 102 just false 46 62 
+93 15 religion false 21 133 
+144 158 contemplate true 156 152 
+166 59 proper true 63 46 
+184 54 chicken false 119 101 
+21 85 send true 64 130 
+112 77 productive false 66 16 
+29 91 asset false 108 152 
+64 38 resident false 63 112 
+173 135 stimulate true 72 18 
+171 186 differ false 3 82 
+105 161 sculpture false 188 69 
+167 107 combine false 87 95 
+29 148 cotton false 112 10 
+83 107 anonymous true 35 11 
+108 196 southern true 139 89 
+83 199 brief true 112 35 
+119 194 operating false 188 33 
+Printed 103 matching rows from partnership
+% fishing virtually cow without forum suggest recall birth gang convert military variable muslim suggest familiar holy virtually unique maintain rush familiar nice tool tribal decline cross artist bless federal 
+Printed 0 matching rows from sick
+% spiritual bullet if mrs doubt organizational integrate cow if artist obvious jaw confirm cross fifteen recall muslim fishing nowhere soldier mrs tool bless nice hurt bullet variable jaw 
+Printed 0 matching rows from sick
+% incredible freely midst cute pop proposal ear institution expectation describe 
+Printed 0 matching rows from sexy
+% institution skirt writing till land elementary want sixth warmth glory freely expectation composition direction symbolic incredible dna dining 
+Printed 0 rows from joining sexy to sexy
+% Added 37 rows to sick from position 0 to 36
+% regulator nowhere steer variable flip unique familiar tool percentage subtle bless bless obvious graduate attach sentiment graduate bullet disease cross complaint cart flip rabbit 
+Printed 0 matching rows from sick
+% row slightly yesterday disability honest vary fiction confirm 
+Printed 0 matching rows from partnership
+% Deleted 11 rows from partnership
+% secure hunt pop till heavy secure furthermore elementary sixth dining mate everywhere 
+Printed 0 rows from joining sexy to sexy
+% proud fraud appreciation 
+Printed 0 matching rows from partnership
+% Created bst index for table sick on column neck
+% Added 36 rows to sexy from position 71 to 106
+% Created bst index for table sexy on column start
+% Created hash index for table partnership on column honest
+% reception swell disease aide disease rush bless chop stroke tool doubt board casualty cross attach jewish steer rabbit holy marry crop disability disability disability fraud 
+9 46.7139 true instrument true true false weigh themselves true true clinic 162 processing 103.988 concentration consumer 91 147 189 mine true true true true 
+104 7.56167 false tomorrow false true false proof tribal true true counseling 149 construction 124.468 absolute interval 102 116 189 mine true true true true 
+104 7.56167 false tomorrow false true false proof tribal true true counseling 149 construction 124.468 absolute interval 102 116 76 lightning true true true true 
+104 7.56167 false tomorrow false true false proof tribal true true counseling 149 construction 124.468 absolute interval 102 116 34 game false false false true 
+104 7.56167 false tomorrow false true false proof tribal true true counseling 149 construction 124.468 absolute interval 102 116 160 paint true true true true 
+160 52.0054 true overall true true true cry chart true false electronic 116 experiment 83.8874 mountain offering 52 162 189 mine true true true true 
+160 52.0054 true overall true true true cry chart true false electronic 116 experiment 83.8874 mountain offering 52 162 76 lightning true true true true 
+137 88.0591 false transform false false true honey replace true true club 113 army 90.2483 global pm 67 18 189 mine true true true true 
+44 152.512 true hike true true true english in false true endorse 157 franchise 93.6261 select collapse 74 8 189 mine true true true true 
+44 152.512 true hike true true true english in false true endorse 157 franchise 93.6261 select collapse 74 8 76 lightning true true true true 
+175 151.696 true comfort true false false troop approximately false true admit 116 suppose 78.1811 charge independent 33 102 189 mine true true true true 
+109 21.1761 false red false true true message heel true true unique 92 positive 5.81967 speaker finding 172 125 189 mine true true true true 
+109 21.1761 false red false true true message heel true true unique 92 positive 5.81967 speaker finding 172 125 76 lightning true true true true 
+131 175.563 true verbal true true true reading desk true true preserve 189 chair 199.782 eyebrow radar 23 78 189 mine true true true true 
+131 175.563 true verbal true true true reading desk true true preserve 189 chair 199.782 eyebrow radar 23 78 76 lightning true true true true 
+Printed 0 rows from joining sick to partnership
+% Table sick deleted
+% dock confirm marry red personality 
+149 86 189 20.1611 115 
+182 81 76 16.0565 122 
+51 109 34 29.1327 183 
+40 2 160 112.629 106 
+183 3 200 10.2052 16 
+141 75 50 34.4896 96 
+20 70 20 68.2466 146 
+32 74 110 130.619 144 
+161 20 14 88.3666 89 
+108 41 53 151.283 91 
+48 151 138 24.0711 153 
+86 132 10 42.4951 81 
+182 166 112 125.619 164 
+106 94 56 84.8999 110 
+39 191 93 134.683 11 
+47 145 32 79.4743 193 
+142 196 185 151.062 111 
+187 151 90 62.8174 191 
+158 19 164 112.134 178 
+144 88 134 86.9855 195 
+97 28 82 95.0357 143 
+88 110 59 179.979 34 
+73 130 9 73.4268 142 
+38 96 99 96.5464 30 
+37 101 154 84.0399 88 
+86 98 121 136.571 176 
+63 114 66 4.75734 158 
+17 124 93 106.308 152 
+54 87 128 41.8111 40 
+75 153 101 168.214 77 
+132 96 89 185.82 24 
+47 175 125 40.7017 55 
+113 152 35 12.628 127 
+29 189 104 104.805 168 
+159 158 86 7.84842 34 
+74 117 50 162.761 101 
+83 194 126 163.258 50 
+117 127 6 187.967 168 
+90 20 183 181.573 157 
+183 156 53 90.6371 200 
+35 133 3 26.1336 106 
+189 76 160 183.215 176 
+70 163 187 171.248 98 
+179 37 6 16.3102 114 
+170 112 58 164.493 35 
+130 65 40 114.269 15 
+37 97 41 61.7083 122 
+52 29 147 46.7527 3 
+161 145 14 137.117 66 
+148 89 56 32.2621 22 
+196 31 27 121.128 63 
+155 179 57 156.992 152 
+62 29 108 127.633 168 
+5 187 60 161.454 92 
+191 2 17 18.0654 23 
+195 114 194 69.0958 66 
+34 77 66 131.993 100 
+86 37 75 86.6631 14 
+178 176 10 117.271 115 
+10 162 192 115.137 167 
+54 181 90 100.355 50 
+141 76 120 185.319 18 
+181 200 149 115.083 72 
+28 141 71 19.7758 80 
+40 70 3 149.168 78 
+113 41 180 50.1827 94 
+20 100 53 80.7708 192 
+193 138 17 182.216 98 
+143 109 138 73.642 195 
+139 183 34 13.4198 30 
+189 86 183 129.777 64 
+192 145 17 96.972 184 
+59 16 143 134.046 32 
+2 111 35 152.242 104 
+37 182 179 38.7943 134 
+98 10 19 54.4618 47 
+62 123 102 39.3689 46 
+133 93 15 47.3455 21 
+46 166 59 18.1421 63 
+130 21 85 22.8123 64 
+16 112 77 141.521 66 
+152 29 91 16.5038 108 
+112 64 38 128.991 63 
+18 173 135 52.9521 72 
+82 171 186 170.8 3 
+69 105 161 166.827 188 
+95 167 107 94.0726 87 
+10 29 148 168.501 112 
+11 83 107 191.134 35 
+89 108 196 77.0917 139 
+35 83 199 142.604 112 
+33 119 194 122.408 188 
+Printed 92 matching rows from partnership
+% demonstrate sixth woman want external father describe staff describe mate coal proposal wheelchair lawsuit everywhere selected expectation coal father become staff hunt demonstrate 
+false true 95.4795 true true 132.746 soon 172 soon 141.061 true false large 109.486 false 134.789 senator true 132.746 false 172 165 false 
+true false 137.528 false false 183.087 purse 55 purse 65.3373 false false deposit 141.472 true 160.233 pleasure false 183.087 true 55 93 true 
+true true 32.4883 false true 149.786 friendly 93 friendly 43.0944 true false burst 87.9558 false 143.721 over true 149.786 false 93 138 true 
+false true 37.1803 false true 71.1231 rear 66 rear 20.1403 true true complaint 43.8552 false 161.194 need true 71.1231 true 66 7 false 
+true false 35.0013 true true 176.112 exhaust 16 exhaust 178.503 true false advanced 143.949 true 104.742 earthquake true 176.112 false 16 122 true 
+false false 9.84601 true false 98.8923 casino 13 casino 62.562 true false allow 132.109 false 154.016 resign true 98.8923 true 13 101 false 
+false true 175.839 false true 95.6164 basket 20 basket 164.823 false true painting 91.3683 false 118.633 weather false 95.6164 true 20 12 false 
+false false 118.047 true true 21.9858 display 148 display 155.284 false false people 90.8755 false 25.3486 feeling false 21.9858 true 148 145 false 
+true true 67.1202 false false 109.425 salt 77 salt 58.7367 false true ought 61.6989 true 112.264 sink false 109.425 true 77 81 true 
+true true 130.133 false true 176.301 mother 88 mother 44.9897 true true easily 98.9882 false 68.1003 fragment true 176.301 false 88 22 true 
+false false 6.86053 true true 116.187 perceive 142 perceive 175.766 true true administrative 7.31056 true 182.27 technique true 116.187 true 142 98 false 
+true true 169.852 false false 52.3419 hey 178 hey 45.0895 true false destination 184.507 false 144.146 please true 52.3419 true 178 3 true 
+false true 101.839 true false 8.1874 guy 188 guy 120.891 true true compel 109.76 true 38.9301 endorse true 8.1874 false 188 158 false 
+false true 76.2101 false true 69.1918 ugly 154 ugly 83.6164 false false array 175.214 true 24.9516 typical false 69.1918 false 154 33 false 
+true true 87.1696 true true 106.803 narrow 76 narrow 161.451 true true rarely 24.8804 true 37.8302 grandfather true 106.803 true 76 97 true 
+false true 191.938 false false 3.91786 component 61 component 55.4793 true true justice 153.34 true 49.0634 regain true 3.91786 true 61 159 false 
+false false 29.7851 true false 179.784 dump 12 dump 184.298 true false temple 61.278 false 139.71 than true 179.784 true 12 189 false 
+true true 149.634 true true 186.797 crazy 64 crazy 180.012 true true debate 184.677 false 123.013 bath true 186.797 false 64 66 true 
+false true 194.11 true false 49.1051 someone 6 someone 40.2386 true true reaction 25.279 false 113.789 slightly true 49.1051 false 6 105 false 
+false true 180.652 false false 37.1932 nowhere 147 nowhere 114.96 false false classical 159.668 false 154.917 union false 37.1932 false 147 166 false 
+false false 109.731 false true 30.8354 proceed 2 proceed 76.4072 true false drink 194.232 true 23.5592 necessity true 30.8354 true 2 109 false 
+true true 98.7879 false true 30.6222 alter 171 alter 80.3761 true true pray 135.524 false 84.9095 ban true 30.6222 false 171 45 true 
+true true 88.6147 false false 30.2928 deputy 79 deputy 193.519 true false improved 126.561 false 113.6 payment true 30.2928 true 79 53 true 
+true true 170.805 true true 169.524 wound 21 wound 99.5757 false true insect 28.4124 false 83.3827 angry false 169.524 true 21 88 true 
+true true 191.168 true true 35.6267 cottage 24 cottage 142.307 true true distract 88.1089 false 99.6973 generally true 35.6267 true 24 159 true 
+false false 44.8815 true true 136.405 deal 171 deal 127.428 true false agent 46.5896 false 41.1104 testimony true 136.405 false 171 157 false 
+false false 188.019 true true 79.8748 coverage 186 coverage 104.228 false false consciousness 5.27849 false 180.396 fact false 79.8748 false 186 132 false 
+true false 59.3513 false false 140.998 employ 135 employ 164.392 true false cease 162.003 false 103.768 punish true 140.998 true 135 196 true 
+true false 3.11421 false true 170.029 illusion 199 illusion 43.0001 false false annual 57.9689 true 1.4441 bloody false 170.029 true 199 51 true 
+false false 151.608 false false 191.721 throw 132 throw 142.671 false true remarkable 164.323 false 88.0069 am false 191.721 true 132 59 false 
+false true 56.6948 true true 175.973 balance 102 balance 83.6678 true false edition 12.8989 true 138.732 grocery true 175.973 false 102 157 false 
+false false 135.72 true false 35.4821 tonight 108 tonight 87.2282 false false study 105.671 true 3.68733 successful false 35.4821 false 108 3 false 
+true false 75.5339 false true 116.696 argue 71 argue 78.8232 true true judicial 3.3212 false 39.1329 school true 116.696 false 71 61 true 
+false true 152.944 true true 24.965 sprinkle 9 sprinkle 134.407 true false sue 102.665 false 175.825 outsider true 24.965 false 9 70 false 
+false false 130.708 true false 188.375 selection 32 selection 186.564 true false dependent 111.47 false 156.673 transition true 188.375 false 32 126 false 
+false true 55.3745 false true 112.934 association 32 association 179.723 true false level 135.72 false 52.1348 occasion true 112.934 true 32 102 false 
+true true 60.565 false false 31.1276 proposal 165 proposal 182.214 false true huge 171.815 true 81.3381 criteria false 31.1276 false 165 191 true 
+true false 163.541 false true 53.1549 ambition 42 ambition 164.839 false false resist 123.121 false 95.1191 some false 53.1549 false 42 130 true 
+false true 150.331 false false 55.9777 complexity 2 complexity 87.1667 false true reference 196.718 false 124.14 appeal false 55.9777 false 2 156 false 
+false false 124.391 true false 138.093 interesting 54 interesting 71.6115 true true way 123.186 true 135.085 successfully true 138.093 true 54 18 false 
+false false 128.931 true false 49.6365 hug 93 hug 166.179 true true battery 2.31254 true 119.615 tumor true 49.6365 false 93 110 false 
+false false 87.3864 false false 60.2895 photographer 89 photographer 85.4381 false true universal 125.941 false 85.7717 blank false 60.2895 false 89 65 false 
+false false 75.4789 false false 166.402 ceremony 75 ceremony 167.143 true true grab 65.4647 false 154.236 disorder true 166.402 false 75 19 false 
+true false 16.6629 false false 194.414 ban 197 ban 172.698 true true god 96.1073 true 120.544 failure true 194.414 false 197 27 true 
+true true 8.46532 true false 37.023 frankly 45 frankly 113.214 true false rhetoric 100.342 true 166.842 efficient true 37.023 true 45 134 true 
+false false 172.223 true false 144.6 neighborhood 166 neighborhood 23.671 false false close 2.45567 false 155.759 evolution false 144.6 false 166 43 false 
+false true 194.479 true false 45.5296 cousin 74 cousin 15.4256 true false abstract 161.762 false 162.296 clinical true 45.5296 true 74 147 false 
+false false 31.1548 false true 23.1749 essence 11 essence 109.8 true false pair 17.3447 false 33.5005 cabin true 23.1749 true 11 61 false 
+false false 40.4985 true true 8.64494 consent 83 consent 114.424 false false absence 122.065 true 4.40547 athletic false 8.64494 true 83 197 false 
+false true 130.627 true true 72.5552 regardless 199 regardless 151.176 true false winter 67.2021 true 168.035 range true 72.5552 false 199 65 false 
+false true 182.176 false true 192.632 danger 42 danger 44.0335 false true president 40.0747 true 35.543 program false 192.632 true 42 104 false 
+false false 60.3199 false false 139.315 ice 136 ice 144.026 false false tire 73.9226 false 83.7643 score false 139.315 false 136 158 false 
+true false 68.5034 true false 34.1312 meat 79 meat 48.7347 false false crime 125.281 false 193.491 aware false 34.1312 false 79 115 true 
+true false 159.254 false false 108.862 trim 139 trim 80.883 false false examine 51.606 false 28.3886 bite false 108.862 false 139 102 true 
+true false 150.494 false true 115.256 sand 14 sand 72.8702 true false component 156.381 false 121.87 promotion true 115.256 true 14 196 true 
+true true 103.913 true true 139.663 publicity 41 publicity 175.852 true true accept 36.5588 true 160.793 considerably true 139.663 true 41 7 true 
+true true 84.9245 false false 99.2059 below 147 below 132.277 true true glad 39.3551 false 168.581 gaze true 99.2059 true 147 127 true 
+true true 83.0596 false true 3.82517 wolf 46 wolf 81.7682 true false most 174.284 false 45.9241 brake true 3.82517 true 46 56 true 
+true false 187.366 false false 65.7769 therefore 127 therefore 107.993 false false informal 176.19 true 27.9691 proper false 65.7769 true 127 51 true 
+false true 140.759 false false 41.8188 rich 187 rich 145.865 true false clip 123.356 true 64.0163 occupy true 41.8188 true 187 135 false 
+true false 157.575 true true 26.3481 appropriate 118 appropriate 161.976 true false weed 193.74 true 35.8384 concentration true 26.3481 true 118 84 true 
+false false 173.86 false true 14.9961 italian 101 italian 172.896 true true productivity 129.675 true 2.81984 solve true 14.9961 true 101 26 false 
+true false 193.015 false false 122.349 sleeve 165 sleeve 152.965 false true norm 161.993 false 113.221 await false 122.349 true 165 114 true 
+false true 170.126 false false 43.5348 officer 138 officer 48.8792 false false scream 143.837 true 124.764 talent false 43.5348 false 138 127 false 
+false true 171.072 false true 198.688 belt 147 belt 17.9847 true false corner 108.12 true 16.3064 possible true 198.688 true 147 54 false 
+false false 162.976 false true 59.2369 indigenous 82 indigenous 173.258 true false cheer 24.0413 false 170.255 shortly true 59.2369 true 82 115 false 
+true false 134.601 true true 83.1338 look 193 look 123.995 false true step 86.3737 false 16.3792 deal false 83.1338 true 193 100 true 
+false false 149.423 true true 1.90328 volunteer 166 volunteer 107.122 false true bloody 153.955 false 10.649 reply false 1.90328 false 166 108 false 
+true false 22.0378 true false 168.484 tea 55 tea 10.6312 true true marry 65.3096 false 11.7587 homeland true 168.484 false 55 109 true 
+true false 108.391 true false 22.8078 confirm 96 confirm 40.6911 false true drinking 179.895 true 157.425 merely false 22.8078 true 96 60 true 
+true false 118.043 false false 28.9139 shame 123 shame 187.9 false true thousand 125.227 true 34.5918 transportation false 28.9139 true 123 195 true 
+true false 99.0879 false true 47.4566 traditional 82 traditional 48.5923 true false manufacturer 116.142 true 154.316 factor true 47.4566 true 82 13 true 
+false false 131.928 false false 146.492 seize 41 seize 133.71 false false experienced 91.6703 false 4.14952 crack false 146.492 false 41 153 false 
+true true 127.537 true false 3.72327 residential 9 residential 5.45617 false true intimate 135.711 false 13.1049 therapist false 3.72327 false 9 101 true 
+true false 191.845 true true 193.881 medical 16 medical 74.893 true true nobody 173.97 true 59.1007 anything true 193.881 false 16 161 true 
+false false 77.6875 false true 140.807 standing 198 standing 181.058 true true begin 166.471 false 6.88153 respectively true 140.807 false 198 72 false 
+false false 113.619 false true 164.917 dig 14 dig 43.0689 true false behalf 51.8531 true 192.604 burn true 164.917 false 14 73 false 
+true true 78.0002 true true 65.664 incorporate 126 incorporate 61.8938 false true establish 29.3684 true 68.6168 launch false 65.664 true 126 131 true 
+false false 77.2294 true true 64.2606 rather 161 rather 148.082 false true depending 22.1304 false 48.8769 visible false 64.2606 false 161 171 false 
+false true 113.223 true true 165.066 seven 5 seven 191.535 false false snap 19.0803 true 182.435 split false 165.066 false 5 30 false 
+true false 20.4316 false false 161.574 insist 52 insist 46.192 false false term 115.252 false 21.9654 consciousness false 161.574 false 52 70 true 
+true false 5.87055 true true 26.3848 inherent 82 inherent 34.6046 true false teenager 190.624 true 76.9369 storage true 26.3848 false 82 108 true 
+false false 31.9868 true false 119.388 issue 138 issue 1.48609 false true cover 171.061 true 161.607 communicate false 119.388 true 138 148 false 
+true false 125.158 true true 46.5204 rolling 96 rolling 83.6003 true true swallow 120.657 true 106.546 used true 46.5204 true 96 50 true 
+true true 103.167 false true 66.2445 lend 105 lend 46.6167 false false fairly 151.777 true 190.159 contact false 66.2445 true 105 91 true 
+false true 111.062 false true 33.3956 division 103 division 138.244 false true chaos 81.93 false 125.419 intention false 33.3956 true 103 161 false 
+false false 92.5021 false false 160.254 personal 6 personal 115.551 true true balloon 11.521 false 35.4831 welfare true 160.254 false 6 193 false 
+true true 108.26 true false 53.5573 prominent 189 prominent 153.094 true true bishop 159.345 true 105.802 dad true 53.5573 false 189 4 true 
+false true 61.6413 false false 89.1961 behavior 9 behavior 106.616 true false possess 3.19159 true 136.311 deal true 89.1961 true 9 118 false 
+true false 25.2172 true true 98.6953 general 156 general 102.004 false false partnership 190.286 false 32.5827 insurance false 98.6953 false 156 37 true 
+false true 175.594 true true 99.7709 distant 176 distant 78.1582 false true patent 198.567 false 13.3993 shared false 99.7709 false 176 80 false 
+true true 164.268 true true 105.86 contact 87 contact 24.4302 true false self 170.904 false 22.4575 decrease true 105.86 false 87 164 true 
+false true 107.799 false true 158.071 include 172 include 185.951 true false lonely 176.557 false 158.971 organism true 158.071 true 172 132 false 
+false true 157.241 false true 198.551 ship 17 ship 29.9696 false true apparent 174.842 true 24.9399 noise false 198.551 true 17 77 false 
+false true 78.5073 false true 95.784 hand 166 hand 137.399 false true soccer 68.6397 true 116.553 explore false 95.784 false 166 17 false 
+false true 24.4998 false false 66.9233 programming 130 programming 14.566 true true shelter 69.9528 false 149.667 constitution true 66.9233 false 130 61 false 
+true false 181.229 false false 183.822 script 123 script 5.25399 false true stadium 185.928 false 13.0499 shall false 183.822 false 123 86 true 
+false true 131.455 false false 142.259 fiscal 73 fiscal 159.123 true false none 44.3282 true 11.4556 organ true 142.259 false 73 138 false 
+true true 177.199 true false 84.2212 culture 56 culture 103.656 true true interaction 17.9784 true 70.8413 foreigner true 84.2212 false 56 36 true 
+true true 193.326 false false 58.8197 effect 113 effect 182.793 false true evaluation 167.591 true 131.361 run false 58.8197 false 113 17 true 
+true true 185.342 false true 6.3117 trait 49 trait 65.1075 true true chicken 91.662 false 86.0631 stance true 6.3117 true 49 181 true 
+true false 29.1636 true false 24.7448 installation 154 installation 127.679 false true inevitably 178.618 false 64.6381 emotional false 24.7448 true 154 35 true 
+false true 84.2802 false true 153.949 professional 187 professional 32.1165 false true web 2.58674 true 141.634 permit false 153.949 true 187 120 false 
+false true 13.9412 true false 83.9907 grain 99 grain 179.61 false true informal 19.2505 true 142.821 invade false 83.9907 false 99 17 false 
+true true 134.239 true false 130.277 directly 52 directly 82.3368 false true jar 119.319 false 96.7938 franchise false 130.277 false 52 77 true 
+true false 51.9042 false true 47.8509 spokesman 100 spokesman 28.8741 true true distribution 10.5682 false 19.8945 prevent true 47.8509 true 100 108 true 
+true true 67.6911 true false 102.431 jacket 141 jacket 102.964 false true agenda 98.4151 true 143.145 peanut false 102.431 true 141 121 true 
+Printed 107 matching rows from sexy
+% title scientific fifteen cute aides institution wheelchair knowledge dna mexican myth 
+160.675 185.723 120 false physics 50.816 large 106 4.01784 148 151 
+129.291 166.031 99 true merchant 112.413 deposit 45 3.97307 107 53 
+123.4 180.89 27 true production 98.9118 burst 197 147.414 65 112 
+34.1153 126.927 59 false apply 130.669 complaint 188 144.16 92 65 
+62.6373 62.9459 90 false flee 79.5343 advanced 53 142.343 100 47 
+112.638 175.09 199 false element 64.8785 allow 199 3.85143 172 30 
+167.078 118.995 96 true demonstrate 39.6897 painting 146 139.95 100 168 
+20.7956 23.9861 67 false inflation 183.924 people 151 190.956 92 45 
+129.238 74.1863 44 true dip 16.9649 ought 106 146.719 157 1 
+13.9891 16.4477 75 false school 117.732 easily 171 192.234 64 117 
+177.029 14.0568 185 false nonprofit 37.0751 administrative 46 44.4584 32 94 
+175.351 119.379 74 false attack 49.699 destination 96 133.912 183 81 
+42.4607 107.848 101 true straighten 89.7092 compel 62 80.831 200 11 
+76.0389 28.2888 73 false intent 22.7379 array 157 45.1273 198 103 
+75.2717 152.368 161 false ideological 67.4326 rarely 1 24.9978 53 149 
+140.611 66.7237 13 false chicken 107.157 justice 200 141.038 151 20 
+139.42 19.9662 27 true complain 118.066 temple 36 94.4261 11 76 
+92.9556 182.513 31 true cling 14.6598 debate 158 64.5597 190 122 
+42.7769 160.867 192 true observer 112.806 reaction 178 157.547 78 38 
+111.544 17.0384 112 true ready 58.5918 classical 42 158.366 187 189 
+76.8278 168.164 32 true shop 194.592 drink 18 6.66264 23 21 
+76.2721 113.16 149 false remarkable 197.609 pray 114 23.5628 158 68 
+65.8052 119.367 25 false diet 5.53976 improved 119 89.4131 136 173 
+179.982 128.167 9 false suck 44.3589 insect 173 189.418 161 166 
+117.504 81.7547 186 false annual 45.4662 distract 138 191.581 46 128 
+120.5 177.175 114 true rarely 72.7592 agent 167 76.8748 100 129 
+166.487 102.397 105 true maker 43.6083 consciousness 25 167.054 120 170 
+5.10817 131.352 59 true pink 130.992 cease 48 53.8997 167 24 
+73.7288 176.683 142 true limited 58.3117 annual 87 27.2853 131 26 
+156.965 27.3803 48 true unprecedented 196.644 remarkable 89 141.072 189 25 
+125.066 21.6223 10 false ability 42.8772 edition 102 121.192 90 60 
+127.206 75.1954 152 true presumably 164.255 study 19 163.454 136 141 
+93.5518 182.949 92 true stick 174.79 judicial 9 22.2269 129 50 
+17.4785 177.872 107 true warrior 158.46 sue 130 154.239 46 40 
+77.2776 157.68 152 true state 35.1002 dependent 86 84.6725 29 22 
+119.083 135.231 23 true helmet 31.8579 level 76 114.411 102 93 
+26.0335 187.223 153 true thigh 45.9946 huge 191 171.035 149 45 
+138.511 139.567 186 false discourse 45.5238 resist 161 129.553 8 199 
+73.0171 94.4055 198 false attract 127.98 reference 112 65.3415 158 9 
+86.5824 62.8143 162 false expected 57.8141 way 4 50.1245 77 39 
+72.3626 33.2464 118 true opponent 60.552 battery 24 150.51 122 197 
+134.833 61.862 36 false student 150.709 universal 122 68.529 169 178 
+119.785 166.36 155 false sheep 101.485 grab 92 18.9122 33 99 
+130.644 74.9815 82 true fence 175.34 god 49 183.235 68 9 
+144.519 146.857 104 true parade 60.9815 rhetoric 6 126.441 162 80 
+168.531 34.3315 102 false fighter 156.259 close 112 62.1517 190 85 
+148.027 125.351 8 false spot 72.7467 abstract 41 77.0658 18 100 
+117.74 171.854 92 true ah 3.09909 pair 82 69.7634 96 73 
+177.804 36.215 26 false bombing 120.396 absence 89 58.1665 142 54 
+163.105 97.8805 106 true investor 157.844 winter 135 50.115 87 94 
+57.6909 110.645 113 true integrate 65.3069 president 55 196.777 181 16 
+28.7495 169.218 33 true graduate 80.3658 tire 180 60.7353 80 100 
+153.502 14.8738 180 false negative 39.1591 crime 1 195.624 194 58 
+18.7158 123.506 157 false touch 103.539 examine 168 110.432 15 10 
+99.3994 170.461 91 false feature 47.7106 component 147 134.473 97 57 
+82.9569 93.313 179 true persuade 30.7243 accept 13 172.836 199 141 
+167.487 196.802 158 true military 58.1831 glad 141 115.691 164 13 
+9.73725 118.146 194 false you 174.877 most 49 193.841 2 147 
+105.603 32.2007 133 true capture 156.463 informal 162 68.0634 74 134 
+113.544 70.5672 9 true hell 79.4196 clip 120 90.0946 131 141 
+67.7465 39.0015 193 true competitive 187.286 weed 103 86.7134 97 61 
+57.8861 197.38 183 true pork 20.553 productivity 82 130.721 56 103 
+19.2869 97.0837 30 true considerable 49.808 norm 11 116.469 200 30 
+137.377 155.19 185 false offense 78.4373 scream 76 178.011 72 198 
+182.007 110.596 184 true hostage 111.644 corner 154 7.29214 86 42 
+61.8675 65.3968 90 false negative 85.8659 cheer 170 186.418 124 38 
+144.195 103.568 89 false reasonable 106.931 step 161 121.24 96 18 
+100.602 94.5334 10 true ball 187.09 bloody 153 11.1272 118 143 
+77.9855 159.618 124 true happily 124.577 marry 109 188.606 6 181 
+172.587 38.8511 28 true blood 183.396 drinking 13 80.064 128 144 
+172.955 14.1554 17 true proposed 191.255 thousand 105 186.643 46 171 
+21.7944 106.141 134 false considerable 33.8276 manufacturer 112 164.484 150 172 
+92.9098 69.5086 26 true aisle 82.6296 experienced 163 8.22838 30 95 
+144.356 52.51 55 true aid 192.029 intimate 106 105.239 164 2 
+118.128 140.225 103 false fewer 120.51 nobody 59 173.309 97 24 
+144.98 7.66979 141 false weak 184.51 begin 16 102.805 28 99 
+152.609 125.88 119 false supplier 169.697 behalf 136 9.7127 2 198 
+104.19 23.5911 29 true its 74.2701 establish 92 13.2284 62 23 
+143.457 33.0482 64 false race 90.2613 depending 148 60.2265 118 109 
+157.203 123.802 86 true exploit 7.70998 snap 152 104.262 172 46 
+180.694 155.835 174 false shorts 48.9039 term 111 56.9267 47 58 
+166.29 114.426 181 true traffic 61.6155 teenager 133 23.5815 187 86 
+82.0398 103.445 132 false hearing 168.577 cover 161 166.098 49 181 
+153.847 92.0994 180 true rubber 169.775 swallow 179 91.4345 5 186 
+192.333 185.87 36 false classic 181.143 fairly 56 109.091 80 11 
+38.0117 136.567 155 true passage 139.835 chaos 84 172.963 26 45 
+154.098 177.229 13 false oppose 160.13 balloon 31 67.736 120 153 
+90.6401 3.74761 140 true perspective 116.502 bishop 52 127.12 164 99 
+197.198 117.35 153 false concerning 65.6579 possess 110 46.0931 187 95 
+163.827 36.5744 52 false team 27.0518 partnership 131 12.7165 100 121 
+23.9878 88.2382 100 true dream 160.584 patent 114 99.7088 78 71 
+70.1925 78.2229 94 true basic 141.992 self 155 130.753 168 62 
+19.5961 38.5007 146 true permission 66.4594 lonely 50 159.243 191 12 
+18.4356 182.087 40 true necessary 2.00106 apparent 163 196.779 133 170 
+115.44 189.68 101 false pay 51.8561 soccer 25 89.1402 65 81 
+147.976 41.1823 66 true specify 150.15 shelter 195 8.77613 47 145 
+15.7108 117.035 167 true operate 143.684 stadium 34 93.9937 132 23 
+175.73 102.359 57 false rank 50.2548 none 178 92.7753 101 134 
+43.4613 12.0027 71 false basically 120.32 interaction 22 42.3342 142 77 
+19.0422 122.065 147 false protein 155.023 evaluation 141 129.43 61 171 
+195.174 82.7852 179 true ride 123.323 chicken 148 100.994 137 23 
+121.662 161.053 146 true resource 175.987 inevitably 43 198.116 59 101 
+52.8825 177.023 143 false personnel 49.3742 web 69 110.213 88 129 
+191.693 127.944 121 false elder 14.573 informal 91 34.7502 63 180 
+38.5828 91.2724 62 false carpet 90.6808 jar 118 118.758 149 109 
+155.091 21.3204 79 false sacrifice 177.8 distribution 140 51.7387 75 40 
+191.935 131.459 77 false painting 124.796 agenda 187 198.642 25 55 
+Printed 107 matching rows from sexy
+% dance distinctive secure suburban vacuum staff mexican elevator knowledge demonstrate title glory proposal proposal proposal become symbolic institution land title suburban vacuum start 
+164 193.094 74.7606 13.4923 top 172 148 true 106 false 160.675 118.666 false false false false true 50.816 true 160.675 13.4923 top 114 
+78 45.3717 198.72 140.853 huge 55 107 false 45 true 129.291 15.9858 false false false true true 112.413 true 129.291 140.853 huge 114 
+142 194.786 178.342 142.253 burst 93 65 true 197 true 123.4 25.3966 false false false false true 98.9118 false 123.4 142.253 burst 49 
+5 112.181 115.474 1.96744 indicator 66 92 true 188 false 34.1153 193.182 true true true true false 130.669 true 34.1153 1.96744 indicator 161 
+125 117.916 131.951 56.553 favor 16 100 true 53 true 62.6373 140.365 false false false false true 79.5343 false 62.6373 56.553 favor 174 
+140 179.214 198.027 95.7636 tightly 13 172 false 199 false 112.638 77.6396 false false false true true 64.8785 true 112.638 95.7636 tightly 95 
+103 185.038 66.5957 141.183 exit 20 100 true 146 false 167.078 31.0641 true true true true false 39.6897 false 167.078 141.183 exit 186 
+106 183.583 165.858 151.209 residential 148 92 true 151 false 20.7956 157.425 false false false true true 183.924 false 20.7956 151.209 residential 99 
+78 190.737 187.095 53.7024 worried 77 157 false 106 true 129.238 169.755 true true true true false 16.9649 true 129.238 53.7024 worried 132 
+196 188.47 28.7727 77.5963 stranger 88 64 true 171 true 13.9891 178.779 true true true false true 117.732 false 13.9891 77.5963 stranger 81 
+164 113.236 153.514 108.676 guilty 142 32 false 46 false 177.029 14.6039 true true true true false 37.0751 true 177.029 108.676 guilty 104 
+94 108.893 76.759 102.002 projection 178 183 false 96 true 175.351 14.5927 false false false true true 49.699 false 175.351 102.002 projection 65 
+45 80.9629 137.594 185.119 managing 188 200 true 62 false 42.4607 189.334 true true true false false 89.7092 true 42.4607 185.119 managing 65 
+185 112.508 55.559 113.22 ticket 154 198 true 157 false 76.0389 117.59 false false false false true 22.7379 true 76.0389 113.22 ticket 34 
+97 167.966 69.1862 143.566 preliminary 76 53 false 1 true 75.2717 184.433 true true true true true 67.4326 false 75.2717 143.566 preliminary 10 
+145 142.204 103.315 52.3146 olympics 61 151 false 200 false 140.611 184.834 true true true true false 107.157 true 140.611 52.3146 olympics 10 
+116 159.541 167.12 16.0307 previous 12 11 true 36 false 139.42 197.905 false false false true false 118.066 true 139.42 16.0307 previous 29 
+76 109.412 112.732 140.232 poetry 64 190 true 158 true 92.9556 189.51 true true true false false 14.6598 true 92.9556 140.232 poetry 184 
+183 181.676 148.268 27.3747 politically 6 78 false 178 false 42.7769 125.558 true true true false true 112.806 true 42.7769 27.3747 politically 102 
+7 62.0414 152.028 31.4684 front 147 187 true 42 false 111.544 110.867 false false false false false 58.5918 false 111.544 31.4684 front 161 
+90 115.088 28.5394 168.732 drunk 2 23 false 18 false 76.8278 84.7983 false false false true true 194.592 true 76.8278 168.732 drunk 112 
+96 193.044 73.5287 110.416 fun 171 158 false 114 true 76.2721 163.219 true true true false false 197.609 true 76.2721 110.416 fun 48 
+66 117.524 45.578 158.802 perhaps 79 136 false 119 true 65.8052 178.515 false false false true true 5.53976 false 65.8052 158.802 perhaps 83 
+155 167.605 124.504 64.7353 organize 21 161 false 173 true 179.982 30.8028 true true true true false 44.3589 false 179.982 64.7353 organize 153 
+165 161.048 50.8005 33.4919 country 24 46 false 138 true 117.504 112.736 true true true true true 45.4662 false 117.504 33.4919 country 189 
+175 168.851 149.311 93.4954 protocol 171 100 false 167 false 120.5 54.9515 false false false false true 72.7592 false 120.5 93.4954 protocol 161 
+3 76.362 198.807 27.4545 born 186 120 false 25 false 166.487 107.185 false false false false true 43.6083 false 166.487 27.4545 born 198 
+1 135.042 146.495 173.047 process 135 167 true 48 true 5.10817 104.393 false false false true false 130.992 true 5.10817 173.047 process 182 
+135 59.1066 3.10238 177.318 brick 199 131 true 87 true 73.7288 187.77 false false false true true 58.3117 false 73.7288 177.318 brick 34 
+123 172.154 24.1405 50.3235 reporting 132 189 true 89 false 156.965 119.559 true true true true false 196.644 false 156.965 50.3235 reporting 177 
+40 30.4266 151.763 5.93474 brave 102 90 true 102 false 125.066 77.5593 false false false false false 42.8772 true 125.066 5.93474 brave 161 
+83 145.065 79.1337 84.2958 surprising 108 136 true 19 false 127.206 145.778 false false false false true 164.255 true 127.206 84.2958 surprising 15 
+141 89.1012 16.5534 181.015 pool 71 129 false 9 true 93.5518 109.937 true true true false true 174.79 false 93.5518 181.015 pool 182 
+11 94.2485 93.4574 167.052 individual 9 46 false 130 false 17.4785 112.164 false false false false false 158.46 true 17.4785 167.052 individual 18 
+199 104.368 51.7088 162.255 cable 32 29 true 86 false 77.2776 71.4969 false false false false false 35.1002 true 77.2776 162.255 cable 88 
+32 122.309 47.5267 181.554 smart 32 102 true 76 false 119.083 75.2931 false false false true true 31.8579 false 119.083 181.554 smart 155 
+106 87.2509 24.4867 159.893 consistently 165 149 false 191 true 26.0335 36.5615 true true true false true 45.9946 false 26.0335 159.893 consistently 48 
+55 20.6032 131.269 105.336 editor 42 8 false 161 true 138.511 103.897 false false false false false 45.5238 false 138.511 105.336 editor 143 
+164 14.1551 108.23 59.8308 besides 2 158 true 112 false 73.0171 194.206 true true true false true 127.98 false 73.0171 59.8308 besides 105 
+77 158.378 10.84 64.5572 frequency 54 77 true 4 false 86.5824 64.047 true true true true false 57.8141 false 86.5824 64.5572 frequency 65 
+89 136.804 167.535 108.839 book 93 122 false 24 false 72.3626 33.6567 true true true false false 60.552 true 72.3626 108.839 book 183 
+154 35.6187 141.437 95.0965 mansion 89 169 false 122 false 134.833 137.98 true true true false true 150.709 false 134.833 95.0965 mansion 19 
+109 2.98195 111.414 129.814 maker 75 33 true 92 false 119.785 95.7291 true true true false false 101.485 true 119.785 129.814 maker 88 
+143 198.641 139.574 171.225 valid 197 68 false 49 true 130.644 145.845 true true true false true 175.34 true 130.644 171.225 valid 198 
+26 133.557 109.288 4.66998 patch 45 162 false 6 true 144.519 50.9224 false false false true true 60.9815 true 144.519 4.66998 patch 29 
+108 115.113 3.30411 75.5492 articulate 166 190 false 112 false 168.531 99.9707 false false false false true 156.259 false 168.531 75.5492 articulate 73 
+175 119.925 149.635 106.04 evening 74 18 false 41 false 148.027 89.2846 false false false true true 72.7467 false 148.027 106.04 evening 18 
+167 90.5594 8.10417 17.3144 agree 11 96 true 82 false 117.74 140.253 false false false true true 3.09909 true 117.74 17.3144 agree 40 
+41 50.2957 67.8315 9.14027 basis 83 142 false 89 false 177.804 105.783 false false false true false 120.396 true 177.804 9.14027 basis 33 
+114 182.83 33.2814 20.4819 aside 199 87 true 135 false 163.105 105.536 false false false false true 157.844 false 163.105 20.4819 aside 86 
+111 158.603 96.9613 31.1951 reach 42 181 true 55 false 57.6909 132.941 true true true true false 65.3069 true 57.6909 31.1951 reach 88 
+30 91.6583 68.0915 79.5417 conversion 136 80 false 180 false 28.7495 89.8687 false false false false true 80.3658 true 28.7495 79.5417 conversion 83 
+10 23.0883 168.581 42.207 technical 79 194 false 1 true 153.502 126.777 false false false false true 39.1591 true 153.502 42.207 technical 173 
+70 2.52208 171.772 88.9862 light 139 15 false 168 true 18.7158 81.5634 false false false false true 103.539 false 18.7158 88.9862 light 79 
+55 74.1456 167.801 54.2153 throughout 14 97 false 147 true 99.3994 40.7945 false false false true true 47.7106 true 99.3994 54.2153 throughout 82 
+28 50.5259 108.246 136.361 tent 41 199 true 13 true 82.9569 116.992 true true true true false 30.7243 false 82.9569 136.361 tent 175 
+151 143.122 160.631 167.578 interpret 147 164 false 141 true 167.487 189.469 true true true true true 58.1831 false 167.487 167.578 interpret 185 
+176 36.3869 93.4262 184.93 socially 46 2 false 49 true 9.73725 184.407 false false false true false 174.877 true 9.73725 184.93 socially 177 
+9 158.512 132.64 116.596 diplomat 127 74 false 162 true 105.603 98.2817 false false false true true 156.463 false 105.603 116.596 diplomat 2 
+58 5.4792 69.3221 199.818 monkey 187 131 true 120 false 113.544 97.3867 false false false true true 79.4196 true 113.544 199.818 monkey 116 
+65 100.574 144.408 181.79 glory 118 97 true 103 true 67.7465 41.8711 false false false true true 187.286 false 67.7465 181.79 glory 42 
+37 176.838 78.7411 76.1804 willingness 101 56 false 82 false 57.8861 73.3569 true true true true true 20.553 true 57.8861 76.1804 willingness 119 
+73 192.771 76.4557 70.9832 crush 165 200 false 11 true 19.2869 97.1114 true true true true false 49.808 true 19.2869 70.9832 crush 11 
+88 95.4504 18.1242 165.685 aside 138 72 true 76 false 137.377 188.518 false false false false false 78.4373 true 137.377 165.685 aside 28 
+168 9.1941 179.891 14.1068 committee 147 86 true 154 false 182.007 121.74 false false false true false 111.644 true 182.007 14.1068 committee 38 
+50 102.054 150.791 15.8552 seller 82 124 true 170 false 61.8675 60.3255 false false false true true 85.8659 true 61.8675 15.8552 seller 84 
+68 41.4826 29.4922 64.0419 investigation 193 96 false 161 true 144.195 61.3701 true true true true false 106.931 false 144.195 64.0419 investigation 171 
+9 58.2998 197.839 28.6191 shelf 166 118 true 153 false 100.602 116.03 true true true false true 187.09 false 100.602 28.6191 shelf 78 
+182 78.5887 178.024 52.9623 trash 55 6 false 109 true 77.9855 159.429 true true true false false 124.577 true 77.9855 52.9623 trash 96 
+41 152.649 155.166 70.5276 ankle 96 128 false 13 true 172.587 43.9992 true true true true false 183.396 false 172.587 70.5276 ankle 84 
+154 13.2147 27.3218 192.986 trace 123 46 false 105 true 172.955 80.1341 true true true true false 191.255 false 172.955 192.986 trace 151 
+175 158.38 2.81484 111.983 insist 82 150 false 112 true 21.7944 40.472 false false false true true 33.8276 true 21.7944 111.983 insist 163 
+56 39.5666 14.3401 167.414 mount 41 30 false 163 false 92.9098 5.11719 false false false false true 82.6296 true 92.9098 167.414 mount 34 
+183 186.739 195.507 153.432 consume 9 164 true 106 true 144.356 120.254 true true true false false 192.029 false 144.356 153.432 consume 38 
+101 183.202 180.378 167.502 supermarket 16 97 true 59 true 118.128 32.9282 true true true false false 120.51 false 118.128 167.502 supermarket 185 
+23 21.3504 73.2296 14.8271 military 198 28 false 16 false 144.98 138.664 true true true false false 184.51 false 144.98 14.8271 military 155 
+179 100.641 12.1882 37.4225 smell 14 2 true 136 false 152.609 130.77 false false false false true 169.697 true 152.609 37.4225 smell 26 
+51 43.0214 34.7187 137.763 mechanic 126 62 true 92 true 104.19 192.16 true true true true false 74.2701 true 104.19 137.763 mechanic 95 
+27 60.7607 130.287 64.7727 convenience 161 118 true 148 false 143.457 142.432 true true true false false 90.2613 true 143.457 64.7727 convenience 158 
+98 13.0471 173.141 118.853 epidemic 5 172 true 152 false 157.203 160.499 false false false false true 7.70998 true 157.203 118.853 epidemic 100 
+18 22.3374 155.516 174.248 false 52 47 true 111 true 180.694 54.0666 false false false false false 48.9039 true 180.694 174.248 false 198 
+153 199.848 195.05 40.4149 corporate 82 187 false 133 true 166.29 159.479 false false false false true 61.6155 true 166.29 40.4149 corporate 97 
+68 71.8732 1.90083 199.316 physically 138 49 false 161 false 82.0398 161.886 true true true true true 168.577 true 82.0398 199.316 physically 41 
+101 53.5604 46.4637 39.1386 authority 96 5 true 179 true 153.847 180.541 true true true true true 169.775 false 153.847 39.1386 authority 119 
+199 23.6864 55.0081 163.571 balanced 105 80 false 56 true 192.333 81.6253 false false false true false 181.143 true 192.333 163.571 balanced 111 
+156 149.757 6.47127 27.7464 subsidy 103 26 false 84 false 38.0117 47.2314 true true true true false 139.835 false 38.0117 27.7464 subsidy 116 
+86 185.341 113.895 152.603 other 6 120 true 31 false 154.098 16.9792 true true true false false 160.13 true 154.098 152.603 other 33 
+168 144.083 153.958 154.96 intense 189 164 true 52 true 90.6401 140.296 true true true false false 116.502 true 90.6401 154.96 intense 161 
+176 54.5958 56.4693 104.855 processing 9 187 true 110 false 197.198 151.627 false false false true false 65.6579 true 197.198 104.855 processing 77 
+68 73.3354 121.259 2.49419 donation 156 100 false 131 true 163.827 166.82 false false false false false 27.0518 false 163.827 2.49419 donation 54 
+66 115.614 156.019 191.638 enter 176 78 false 114 false 23.9878 185.012 true true true false true 160.584 false 23.9878 191.638 enter 33 
+7 76.8625 134.612 139.192 later 87 168 true 155 true 70.1925 107.572 false false false false false 141.992 false 70.1925 139.192 later 132 
+84 112.281 138.14 142.573 true 172 191 true 50 false 19.5961 199.335 false false false true true 66.4594 true 19.5961 142.573 true 66 
+150 25.3681 169.045 183.551 necessarily 17 133 false 163 false 18.4356 109.019 true true true true true 2.00106 false 18.4356 183.551 necessarily 25 
+45 129.121 109.511 113.002 dawn 166 65 true 25 false 115.44 21.4157 true true true false false 51.8561 false 115.44 113.002 dawn 64 
+170 62.4895 160.302 137.873 theory 130 47 true 195 false 147.976 189.783 true true true false true 150.15 false 147.976 137.873 theory 170 
+111 24.4814 63.2493 80.5643 refer 123 132 false 34 true 15.7108 124.918 true true true false false 143.684 true 15.7108 80.5643 refer 10 
+106 139.773 99.3642 164.816 concern 73 101 false 178 false 175.73 182.619 false false false false true 50.2548 true 175.73 164.816 concern 48 
+87 73.5798 19.9286 119.563 quit 56 142 false 22 true 43.4613 58.2075 true true true false true 120.32 false 43.4613 119.563 quit 118 
+123 132.059 20.1411 94.7455 confront 113 61 false 141 true 19.0422 12.9301 true true true false false 155.023 true 19.0422 94.7455 confront 83 
+151 129.627 3.96979 126.105 serious 49 137 true 148 true 195.174 178.161 true true true true true 123.323 false 195.174 126.105 serious 144 
+1 79.3894 190.481 15.3067 mission 154 59 false 43 true 121.662 167.945 true true true true true 175.987 true 121.662 15.3067 mission 87 
+157 116.148 160.7 196.798 forehead 187 88 true 69 false 52.8825 192.107 true true true true false 49.3742 false 52.8825 196.798 forehead 181 
+197 3.85469 136.118 119.676 soar 99 63 false 91 false 191.693 33.053 true true true false true 14.573 false 191.693 119.676 soar 183 
+2 157.99 120.192 74.6192 associated 52 149 false 118 true 38.5828 182.376 true true true false false 90.6808 true 38.5828 74.6192 associated 134 
+107 65.3368 188.968 49.4086 nothing 100 75 false 140 true 155.091 106.06 true true true true false 177.8 true 155.091 49.4086 nothing 178 
+42 56.564 151.555 118.323 violent 141 25 true 187 true 191.935 166.968 true true true true true 124.796 true 191.935 118.323 violent 131 
+Printed 107 matching rows from sexy
+% Added 38 rows to sexy from position 107 to 144
+% New table consecutive with column(s) conference unless likelihood later middle technician screening bicycle merchant rise accent original multiple suspect rifle clothing take relieve mom clerk international indian commitment outline trade faint swell contemporary interfere sacrifice surgeon earth witness pioneer honest union alarm court tune haul dose limit finance ethics distinguish fascinating refugee match supplier some desert tale carrier reception colonial weed custom exhibit fresh pleased advise frustrate wound it automatic blade format wash planning concrete mutter puzzle panel recipe only resort down texture peaceful shake each casual signal ship pain ancient fame instructor tongue created
+% ear distinctive suburban warmth father mexican 
+136.129 193.094 13.4923 109.881 132.746 148 
+128.791 45.3717 140.853 72.8795 183.087 107 
+192.339 194.786 142.253 109.919 149.786 65 
+84.1949 112.181 1.96744 109.223 71.1231 92 
+149.643 117.916 56.553 42.1349 176.112 100 
+177.416 179.214 95.7636 111.913 98.8923 172 
+5.26558 185.038 141.183 45.4831 95.6164 100 
+78.6563 183.583 151.209 17.8832 21.9858 92 
+155.936 190.737 53.7024 43.6375 109.425 157 
+71.7968 188.47 77.5963 17.5483 176.301 64 
+189.779 113.236 108.676 86.9051 116.187 32 
+33.9717 108.893 102.002 13.1783 52.3419 183 
+143.162 80.9629 185.119 80.2081 8.1874 200 
+27.5578 112.508 113.22 154.288 69.1918 198 
+31.3889 167.966 143.566 107.259 106.803 53 
+176.696 142.204 52.3146 169.749 3.91786 151 
+107.3 159.541 16.0307 51.9377 179.784 11 
+187.06 109.412 140.232 193.746 186.797 190 
+112.825 181.676 27.3747 79.6036 49.1051 78 
+121.499 62.0414 31.4684 62.2061 37.1932 187 
+190.341 115.088 168.732 113.173 30.8354 23 
+78.3402 193.044 110.416 17.6862 30.6222 158 
+39.215 117.524 158.802 164.81 30.2928 136 
+124.299 167.605 64.7353 9.34982 169.524 161 
+54.2169 161.048 33.4919 129.03 35.6267 46 
+58.4986 168.851 93.4954 163.841 136.405 100 
+192.054 76.362 27.4545 68.8044 79.8748 120 
+33.8799 135.042 173.047 178.1 140.998 167 
+147.234 59.1066 177.318 169.376 170.029 131 
+196.151 172.154 50.3235 22.6972 191.721 189 
+61.8669 30.4266 5.93474 79.8078 175.973 90 
+129.008 145.065 84.2958 52.828 35.4821 136 
+89.3722 89.1012 181.015 81.888 116.696 129 
+28.0761 94.2485 167.052 185.708 24.965 46 
+28.1733 104.368 162.255 127.99 188.375 29 
+189.797 122.309 181.554 97.2239 112.934 102 
+191.557 87.2509 159.893 184.153 31.1276 149 
+66.8794 20.6032 105.336 190.221 53.1549 8 
+23.2536 14.1551 59.8308 16.2689 55.9777 158 
+160.636 158.378 64.5572 83.0423 138.093 77 
+2.31997 136.804 108.839 102.735 49.6365 122 
+13.2515 35.6187 95.0965 142.398 60.2895 169 
+77.9331 2.98195 129.814 23.6702 166.402 33 
+161.76 198.641 171.225 177.38 194.414 68 
+47.1116 133.557 4.66998 150.685 37.023 162 
+150.665 115.113 75.5492 107.697 144.6 190 
+193.995 119.925 106.04 91.3128 45.5296 18 
+181.052 90.5594 17.3144 18.1436 23.1749 96 
+177.355 50.2957 9.14027 186.099 8.64494 142 
+118.198 182.83 20.4819 28.0395 72.5552 87 
+85.1753 158.603 31.1951 89.4178 192.632 181 
+37.4864 91.6583 79.5417 123.518 139.315 80 
+127.379 23.0883 42.207 198.871 34.1312 194 
+34.0512 2.52208 88.9862 54.1726 108.862 15 
+162.259 74.1456 54.2153 67.6749 115.256 97 
+140.338 50.5259 136.361 147.934 139.663 199 
+35.605 143.122 167.578 108.204 99.2059 164 
+194.876 36.3869 184.93 124.485 3.82517 2 
+190.425 158.512 116.596 130.865 65.7769 74 
+149.922 5.4792 199.818 6.91791 41.8188 131 
+194.045 100.574 181.79 187.566 26.3481 97 
+197.257 176.838 76.1804 93.9197 14.9961 56 
+47.8862 192.771 70.9832 125.475 122.349 200 
+191.337 95.4504 165.685 115.219 43.5348 72 
+67.9129 9.1941 14.1068 127.195 198.688 86 
+100.703 102.054 15.8552 158.507 59.2369 124 
+68.2404 41.4826 64.0419 84.4952 83.1338 96 
+149.509 58.2998 28.6191 128.771 1.90328 118 
+67.4984 78.5887 52.9623 104.604 168.484 6 
+187.445 152.649 70.5276 23.1961 22.8078 128 
+181.462 13.2147 192.986 142.119 28.9139 46 
+90.1609 158.38 111.983 142.463 47.4566 150 
+50.573 39.5666 167.414 96.7813 146.492 30 
+25.9898 186.739 153.432 172.581 3.72327 164 
+46.7907 183.202 167.502 115.394 193.881 97 
+93.1367 21.3504 14.8271 110.79 140.807 28 
+167.781 100.641 37.4225 144.155 164.917 2 
+77.7315 43.0214 137.763 59.1458 65.664 62 
+54.6952 60.7607 64.7727 13.2181 64.2606 118 
+188.398 13.0471 118.853 103.507 165.066 172 
+77.4419 22.3374 174.248 46.9618 161.574 47 
+128.189 199.848 40.4149 87.7032 26.3848 187 
+187.424 71.8732 199.316 128.336 119.388 49 
+153.491 53.5604 39.1386 21.3602 46.5204 5 
+74.0584 23.6864 163.571 68.6777 66.2445 80 
+36.1522 149.757 27.7464 176.925 33.3956 26 
+151.129 185.341 152.603 121.611 160.254 120 
+60.6557 144.083 154.96 144.995 53.5573 164 
+180.928 54.5958 104.855 154.158 89.1961 187 
+38.2615 73.3354 2.49419 23.8354 98.6953 100 
+125.617 115.614 191.638 41.8319 99.7709 78 
+12.0627 76.8625 139.192 72.4618 105.86 168 
+36.7365 112.281 142.573 35.148 158.071 191 
+86.5025 25.3681 183.551 192.297 198.551 133 
+149.387 129.121 113.002 67.7842 95.784 65 
+190.855 62.4895 137.873 54.2653 66.9233 47 
+183.769 24.4814 80.5643 44.1247 183.822 132 
+199.459 139.773 164.816 139.775 142.259 101 
+123.332 73.5798 119.563 138.318 84.2212 142 
+9.59968 132.059 94.7455 154.455 58.8197 61 
+15.4329 129.627 126.105 114.143 6.3117 137 
+74.3386 79.3894 15.3067 145.6 24.7448 59 
+199.452 116.148 196.798 166.218 153.949 88 
+92.9183 3.85469 119.676 123.891 83.9907 63 
+101.244 157.99 74.6192 176.474 130.277 149 
+196.075 65.3368 49.4086 148.576 47.8509 75 
+99.3718 56.564 118.323 41.1629 102.431 25 
+52.0112 82.4998 26.8826 31.8653 186.618 150 
+55.6721 7.8129 90.501 151.977 127.345 3 
+72.9005 37.0113 86.7782 1.81828 189.848 120 
+138.296 101.435 131.471 116.667 4.58687 162 
+35.4681 24.7947 33.3127 21.1518 32.7821 196 
+53.3056 120.968 61.6336 91.0056 61.4531 16 
+3.37424 104.735 105.277 177.321 189.546 199 
+91.6316 87.1685 62.3801 113.844 5.88696 78 
+196.989 65.656 160.823 25.6134 120.614 47 
+71.5128 128.1 101.49 198.758 32.5414 27 
+87.7356 104.698 165.2 23.3641 49.5694 126 
+126.953 126.512 198.73 14.6007 57.7957 177 
+167.547 111.999 75.9969 93.5844 176.084 19 
+13.4655 195.365 185.551 109.095 149.385 61 
+72.1672 109.942 39.5372 1.99529 48.7537 8 
+116.433 163.939 199.868 107.29 16.9953 96 
+62.8088 117.875 123.184 115.285 101.271 92 
+105.121 116.1 4.34252 139.698 156.713 85 
+25.6828 70.8757 188.571 60.8014 135.641 118 
+51.5386 24.7455 172.568 54.0967 30.0089 57 
+99.3417 176.217 150.057 57.0419 111.986 57 
+83.9271 193.138 138.844 140.614 92.3738 107 
+39.5425 180.069 98.2596 140.531 128.404 163 
+133.355 81.3992 37.7541 195.803 196.81 61 
+141.401 148.421 167.528 55.7263 161.681 197 
+53.2228 147.219 101.254 144.46 59.1939 182 
+101.75 31.5985 114.613 75.9268 94.3425 1 
+32.2755 80.4624 40.297 97.6352 133.846 129 
+19.6385 132.994 147.044 49.8731 123.98 36 
+160.874 21.6101 43.6978 77.3335 11.0365 66 
+9.9205 26.9813 23.9672 19.0194 86.9778 184 
+96.4156 47.7348 90.927 29.6567 97.1436 32 
+93.5571 55.1679 97.1067 71.9341 136.119 40 
+42.5719 75.9474 98.8287 195.434 103.162 151 
+43.9471 66.4005 54.7788 68.8521 15.9665 79 
+111.255 49.2864 185.179 108.34 56.8259 54 
+186.827 43.0753 169.76 25.1793 90.2433 11 
+174.142 66.2599 192.225 102.375 64.0971 146 
+Printed 145 matching rows from sexy
+% suburban explicit suburban distinctive want discovery ghost distinctive selected proposal 
+13.4923 corn 13.4923 193.094 true shut 65.4483 193.094 134.789 false 
+140.853 habit 140.853 45.3717 false sum 117.266 45.3717 160.233 false 
+142.253 invasion 142.253 194.786 false another 101.131 194.786 143.721 false 
+1.96744 subsequent 1.96744 112.181 false demand 31.203 112.181 161.194 true 
+56.553 maker 56.553 117.916 true privately 144.662 117.916 104.742 false 
+95.7636 yes 95.7636 179.214 true tolerance 31.5894 179.214 154.016 false 
+141.183 consult 141.183 185.038 false clean 44.5782 185.038 118.633 true 
+151.209 wave 151.209 183.583 true length 131.879 183.583 25.3486 false 
+53.7024 educational 53.7024 190.737 false arrow 161.563 190.737 112.264 true 
+77.5963 how 77.5963 188.47 false hunger 101.104 188.47 68.1003 true 
+108.676 jeans 108.676 113.236 true out 9.80373 113.236 182.27 true 
+102.002 combined 102.002 108.893 false hostile 189.357 108.893 144.146 false 
+185.119 rice 185.119 80.9629 true atmosphere 94.608 80.9629 38.9301 true 
+113.22 special 113.22 112.508 false ours 198.322 112.508 24.9516 false 
+143.566 unit 143.566 167.966 true constraint 81.2464 167.966 37.8302 true 
+52.3146 alien 52.3146 142.204 false her 197.202 142.204 49.0634 true 
+16.0307 open 16.0307 159.541 true derive 5.14194 159.541 139.71 false 
+140.232 tablespoon 140.232 109.412 true educate 23.9019 109.412 123.013 true 
+27.3747 run 27.3747 181.676 true vast 40.0229 181.676 113.789 true 
+31.4684 combination 31.4684 62.0414 false pace 109.714 62.0414 154.917 false 
+168.732 quality 168.732 115.088 false opera 27.7535 115.088 23.5592 false 
+110.416 assess 110.416 193.044 false slam 43.7485 193.044 84.9095 true 
+158.802 someday 158.802 117.524 false bureau 107.866 117.524 113.6 false 
+64.7353 relief 64.7353 167.605 true administer 86.2754 167.605 83.3827 true 
+33.4919 casualty 33.4919 161.048 true missing 196.171 161.048 99.6973 true 
+93.4954 auction 93.4954 168.851 true delicate 42.2343 168.851 41.1104 false 
+27.4545 setting 27.4545 76.362 true interested 60.4767 76.362 180.396 false 
+173.047 actually 173.047 135.042 false consent 192.861 135.042 103.768 false 
+177.318 responsible 177.318 59.1066 false politically 111.169 59.1066 1.4441 false 
+50.3235 bulk 50.3235 172.154 false else 106.197 172.154 88.0069 true 
+5.93474 sometime 5.93474 30.4266 true collective 128.136 30.4266 138.732 false 
+84.2958 peel 84.2958 145.065 true mortgage 26.4197 145.065 3.68733 false 
+181.015 reliable 181.015 89.1012 false cruise 11.7207 89.1012 39.1329 true 
+167.052 pretend 167.052 94.2485 true somehow 8.90758 94.2485 175.825 false 
+162.255 sanction 162.255 104.368 true soldier 178.056 104.368 156.673 false 
+181.554 bell 181.554 122.309 false northeast 87.6009 122.309 52.1348 false 
+159.893 car 159.893 87.2509 false strike 151.63 87.2509 81.3381 true 
+105.336 characterize 105.336 20.6032 false improved 84.7276 20.6032 95.1191 false 
+59.8308 damn 59.8308 14.1551 false unless 129.647 14.1551 124.14 true 
+64.5572 marriage 64.5572 158.378 true monument 174.49 158.378 135.085 true 
+108.839 clock 108.839 136.804 true win 19.7116 136.804 119.615 true 
+95.0965 incentive 95.0965 35.6187 false tall 16.6987 35.6187 85.7717 true 
+129.814 legislative 129.814 2.98195 false uncertain 14.4 2.98195 154.236 true 
+171.225 trading 171.225 198.641 false certainly 41.1664 198.641 120.544 true 
+4.66998 executive 4.66998 133.557 true pursue 47.5006 133.557 166.842 false 
+75.5492 homeless 75.5492 115.113 true initially 92.2347 115.113 155.759 false 
+106.04 fiction 106.04 119.925 true kiss 97.3153 119.925 162.296 false 
+17.3144 late 17.3144 90.5594 false swell 47.9735 90.5594 33.5005 false 
+9.14027 classic 9.14027 50.2957 true landing 170.367 50.2957 4.40547 false 
+20.4819 refer 20.4819 182.83 true withdrawal 11.6994 182.83 168.035 false 
+31.1951 diagnosis 31.1951 158.603 false projection 66.7439 158.603 35.543 true 
+79.5417 depressed 79.5417 91.6583 false mother 47.1535 91.6583 83.7643 false 
+42.207 announcement 42.207 23.0883 true trip 93.665 23.0883 193.491 false 
+88.9862 coordinator 88.9862 2.52208 false row 160.569 2.52208 28.3886 false 
+54.2153 rapidly 54.2153 74.1456 false blink 130.342 74.1456 121.87 false 
+136.361 cart 136.361 50.5259 true christianity 151.738 50.5259 160.793 true 
+167.578 leading 167.578 143.122 false beneath 124.827 143.122 168.581 true 
+184.93 theme 184.93 36.3869 false funeral 42.8623 36.3869 45.9241 false 
+116.596 fraud 116.596 158.512 false pill 9.76945 158.512 27.9691 false 
+199.818 scan 199.818 5.4792 false increase 125.334 5.4792 64.0163 false 
+181.79 brilliant 181.79 100.574 true secretary 185.569 100.574 35.8384 false 
+76.1804 vehicle 76.1804 176.838 false rehabilitation 110.616 176.838 2.81984 true 
+70.9832 bare 70.9832 192.771 false forum 143.005 192.771 113.221 true 
+165.685 trade 165.685 95.4504 false apparently 6.15928 95.4504 124.764 false 
+14.1068 essentially 14.1068 9.1941 false information 84.3343 9.1941 16.3064 false 
+15.8552 scared 15.8552 102.054 false end 157.597 102.054 170.255 false 
+64.0419 condition 64.0419 41.4826 true personnel 69.2259 41.4826 16.3792 true 
+28.6191 personal 28.6191 58.2998 true transport 123.658 58.2998 10.649 true 
+52.9623 phone 52.9623 78.5887 true energy 34.3141 78.5887 11.7587 true 
+70.5276 salary 70.5276 152.649 true international 111.903 152.649 157.425 true 
+192.986 belief 192.986 13.2147 false metropolitan 53.6437 13.2147 34.5918 true 
+111.983 dignity 111.983 158.38 false my 167.586 158.38 154.316 false 
+167.414 partner 167.414 39.5666 false advanced 140.297 39.5666 4.14952 false 
+153.432 works 153.432 186.739 true attitude 177.04 186.739 13.1049 true 
+167.502 protective 167.502 183.202 true worldwide 17.9611 183.202 59.1007 true 
+14.8271 none 14.8271 21.3504 false channel 169.268 21.3504 6.88153 true 
+37.4225 course 37.4225 100.641 false companion 110.199 100.641 192.604 false 
+137.763 dress 137.763 43.0214 true expand 35.6865 43.0214 68.6168 true 
+64.7727 makeup 64.7727 60.7607 true library 121.389 60.7607 48.8769 true 
+118.853 exercise 118.853 13.0471 true dog 41.7283 13.0471 182.435 false 
+174.248 stand 174.248 22.3374 false sovereignty 54.2413 22.3374 21.9654 false 
+40.4149 comparable 40.4149 199.848 true tighten 84.5584 199.848 76.9369 false 
+199.316 liver 199.316 71.8732 true bed 111.025 71.8732 161.607 true 
+39.1386 court 39.1386 53.5604 true inevitably 61.6902 53.5604 106.546 true 
+163.571 korean 163.571 23.6864 false respect 194.842 23.6864 190.159 false 
+27.7464 sprinkle 27.7464 149.757 false settle 190.338 149.757 125.419 true 
+152.603 specify 152.603 185.341 false pleasant 42.5985 185.341 35.4831 true 
+154.96 residential 154.96 144.083 true pipe 9.01385 144.083 105.802 true 
+104.855 driver 104.855 54.5958 false red 44.8751 54.5958 136.311 false 
+2.49419 radio 2.49419 73.3354 true balloon 95.7551 73.3354 32.5827 false 
+191.638 liberal 191.638 115.614 true bother 93.531 115.614 13.3993 true 
+139.192 distract 139.192 76.8625 true map 174.89 76.8625 22.4575 false 
+142.573 file 142.573 112.281 false whereas 113.017 112.281 158.971 false 
+183.551 uniform 183.551 25.3681 false effort 125.942 25.3681 24.9399 true 
+113.002 till 113.002 129.121 false tough 132.84 129.121 116.553 true 
+137.873 trim 137.873 62.4895 false degree 118.301 62.4895 149.667 true 
+80.5643 fog 80.5643 24.4814 false soak 22.293 24.4814 13.0499 true 
+164.816 forever 164.816 139.773 false formal 107.01 139.773 11.4556 false 
+119.563 rental 119.563 73.5798 true forbid 47.3088 73.5798 70.8413 true 
+94.7455 sir 94.7455 132.059 false articulate 101.568 132.059 131.361 true 
+126.105 suite 126.105 129.627 false way 104.283 129.627 86.0631 true 
+15.3067 summit 15.3067 79.3894 true horse 38.9533 79.3894 64.6381 true 
+196.798 significant 196.798 116.148 false emotional 145.839 116.148 141.634 true 
+119.676 soil 119.676 3.85469 true peak 156.505 3.85469 142.821 true 
+74.6192 warehouse 74.6192 157.99 true egg 73.4716 157.99 96.7938 true 
+49.4086 figure 49.4086 65.3368 false economic 170.879 65.3368 19.8945 true 
+118.323 land 118.323 56.564 true illustrate 138.047 56.564 143.145 true 
+26.8826 miss 26.8826 82.4998 false assign 168.127 82.4998 164.858 true 
+90.501 finding 90.501 7.8129 true comply 68.5931 7.8129 101.849 false 
+86.7782 disappointment 86.7782 37.0113 false excitement 33.5011 37.0113 133.41 true 
+131.471 dissolve 131.471 101.435 false judgment 31.6765 101.435 9.02526 true 
+33.3127 factory 33.3127 24.7947 true championship 44.7467 24.7947 111.258 true 
+61.6336 monitor 61.6336 120.968 false fixed 36.6162 120.968 15.6942 false 
+105.277 civilization 105.277 104.735 true budget 41.2891 104.735 29.8835 true 
+62.3801 heavy 62.3801 87.1685 true full 67.4039 87.1685 119.973 false 
+160.823 law 160.823 65.656 false car 64.9611 65.656 174.83 true 
+101.49 columnist 101.49 128.1 true scream 164.102 128.1 163.771 true 
+165.2 region 165.2 104.698 true agricultural 22.0848 104.698 149.428 true 
+198.73 between 198.73 126.512 false possess 170.812 126.512 67.8709 true 
+75.9969 backyard 75.9969 111.999 true fish 28.8818 111.999 154.651 false 
+185.551 dense 185.551 195.365 true automatic 60.3286 195.365 172.268 false 
+39.5372 dependent 39.5372 109.942 false african 170.565 109.942 98.0977 false 
+199.868 installation 199.868 163.939 false pole 121.164 163.939 148.839 true 
+123.184 tablespoon 123.184 117.875 true leather 196.161 117.875 90.715 true 
+4.34252 play 4.34252 116.1 true statement 74.3123 116.1 93.5045 true 
+188.571 standing 188.571 70.8757 false recording 75.4218 70.8757 49.2521 false 
+172.568 lap 172.568 24.7455 false tightly 141.389 24.7455 143.694 false 
+150.057 global 150.057 176.217 true besides 199.622 176.217 174.814 true 
+138.844 senior 138.844 193.138 false documentary 57.7622 193.138 70.2594 false 
+98.2596 french 98.2596 180.069 true approval 145.298 180.069 29.3701 false 
+37.7541 aesthetic 37.7541 81.3992 true profile 107.203 81.3992 91.9081 false 
+167.528 gas 167.528 148.421 false proposed 144.592 148.421 66.252 false 
+101.254 web 101.254 147.219 false trunk 180.311 147.219 41.2073 true 
+114.613 bacteria 114.613 31.5985 true dancer 133.2 31.5985 90.3956 true 
+40.297 persist 40.297 80.4624 true teenage 182.821 80.4624 98.0384 true 
+147.044 complaint 147.044 132.994 false bike 115.425 132.994 73.5766 true 
+43.6978 change 43.6978 21.6101 false jungle 135.862 21.6101 123.12 false 
+23.9672 protein 23.9672 26.9813 true belief 82.7617 26.9813 14.9141 false 
+90.927 separation 90.927 47.7348 true site 48.3303 47.7348 106.162 false 
+97.1067 pace 97.1067 55.1679 true costly 74.5598 55.1679 40.5201 false 
+98.8287 doctrine 98.8287 75.9474 false timber 178.146 75.9474 44.2645 true 
+54.7788 explicit 54.7788 66.4005 false phenomenon 72.1006 66.4005 138.165 true 
+185.179 continued 185.179 49.2864 false weak 162.565 49.2864 134.602 true 
+169.76 water 169.76 43.0753 false hi 98.8844 43.0753 90.0322 false 
+192.225 floor 192.225 66.2599 true focus 122.079 66.2599 179.761 false 
+Printed 145 matching rows from sexy
+% Created hash index for table partnership on column row
+% honest rose yesterday sexual chicken sexual 
+80 effort true true 8 true 
+138 house false true 20 true 
+41 theater true false 57 false 
+160 dramatically true false 190 false 
+152 complaint false false 78 false 
+104 watch true false 162 false 
+137 corridor false false 65 false 
+141 eating true false 17 false 
+129 freshman false true 119 true 
+126 type false true 27 true 
+60 component true false 162 false 
+149 knee false true 124 true 
+36 bridge true true 122 true 
+131 dirt false true 159 true 
+62 variation true true 139 true 
+8 broad false true 65 true 
+141 forest false false 57 false 
+75 touchdown false false 43 false 
+152 molecule true false 85 false 
+45 pick true false 179 false 
+31 mutual true false 190 false 
+57 undergo false false 12 false 
+137 outside true false 53 false 
+61 plus false false 200 false 
+50 mexican true true 79 true 
+64 aunt false true 80 true 
+54 ideology true true 106 true 
+112 oral true false 140 false 
+130 on false true 145 true 
+138 balloon true false 95 false 
+84 metropolitan false false 154 false 
+144 wood true false 104 false 
+36 inmate false true 38 true 
+23 grain false false 91 false 
+144 group true false 135 false 
+120 confusion false false 90 false 
+98 understand true false 124 false 
+161 district true true 63 true 
+114 hill true true 32 true 
+12 narrow false true 35 true 
+164 imagine false true 148 true 
+101 insurance false true 28 true 
+118 etc false false 4 false 
+3 survive false true 141 true 
+37 emerging true false 145 false 
+80 internet false true 89 true 
+67 rental true true 9 true 
+131 fighting false false 54 false 
+45 politician false false 31 false 
+134 moreover true true 178 true 
+47 limitation false false 84 false 
+51 smoke false false 115 false 
+159 collective false true 192 true 
+114 share true true 124 true 
+6 terribly false false 46 false 
+6 judgment false false 164 false 
+88 today false true 131 true 
+149 tide false true 73 true 
+123 hungry true true 135 true 
+94 epidemic false true 149 true 
+105 entire true false 42 false 
+93 lab true false 62 false 
+6 decline true false 158 false 
+11 restriction false false 136 false 
+154 objective false false 4 false 
+37 exactly true true 14 true 
+14 lucky false false 7 false 
+124 needle true false 45 false 
+21 split true true 174 true 
+88 formerly false false 111 false 
+17 cat true true 88 true 
+163 weird false true 158 true 
+78 juice false false 28 false 
+6 hip false true 129 true 
+94 interfere false true 76 true 
+104 technology false true 89 true 
+83 seem false true 25 true 
+5 devil true false 149 false 
+157 impose true true 68 true 
+95 crush false true 143 true 
+155 cocaine false false 162 false 
+50 bird true false 158 false 
+23 initiative false false 118 false 
+64 yesterday false true 151 true 
+107 controversy true true 15 true 
+148 ring true true 194 true 
+96 offense false true 159 true 
+79 asset false false 99 false 
+98 democrat false true 10 true 
+69 store false false 28 false 
+35 greatest true false 36 false 
+62 mental true false 179 false 
+Printed 92 matching rows from partnership
+% 
